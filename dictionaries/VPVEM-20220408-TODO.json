@@ -1,0 +1,1330 @@
+{
+    "1695gorak.ogg": {
+        "en": "gorak on the boat",
+        "fr": "gorak sur le bateau"
+    },
+    "1695uktar.ogg": {
+        "en": "uktar on the boat",
+        "fr": "uktar sur le bateau"
+    },
+    "1695ukurogg.ogg": {
+        "en": "uk'urogg on the boat",
+        "fr": "uk'urogg sur le bateau"
+    },
+    "aesoon.ogg": {
+        "en": "a o e incoming",
+        "fr": "Une a o e arrive bientôt"
+    },
+    "artillery.ogg": {
+        "en": "Artillery",
+        "fr": "Artillerie"
+    },
+    "attackblood.ogg": {
+        "en": "Attack blood globule",
+        "fr": "TODO"
+    },
+    "attackbloodthirster.ogg": {
+        "en": "Attack blood thirster",
+        "fr": "TODO"
+    },
+    "attackcannon.ogg": {
+        "en": "Attack cannon",
+        "fr": "TODO"
+    },
+    "attackdeathcaller.ogg": {
+        "en": "Attack deathcaller",
+        "fr": "TODO"
+    },
+    "attackdoomfire.ogg": {
+        "en": "Attack doomfire spirit",
+        "fr": "TODO"
+    },
+    "attackfelblood.ogg": {
+        "en": "Attack fel blood globule",
+        "fr": "TODO"
+    },
+    "attackflesheater.ogg": {
+        "en": "Attack flesh eater",
+        "fr": "TODO"
+    },
+    "attackhulkingterror.ogg": {
+        "en": "Attack hulking terror",
+        "fr": "TODO"
+    },
+    "attackmindfungus.ogg": {
+        "en": "Attack mind fungus",
+        "fr": "TODO"
+    },
+    "attackshield.ogg": {
+        "en": "Attack Shield",
+        "fr": "Attaque le bouclier"
+    },
+    "attacksporeshooter.ogg": {
+        "en": "Attack spore shooter",
+        "fr": "TODO"
+    },
+    "attacktank.ogg": {
+        "en": "Attack tank",
+        "fr": "TODO"
+    },
+    "attacktotem.ogg": {
+        "en": "attack totem",
+        "fr": "Attaque le totem"
+    },
+    "attackturret.ogg": {
+        "en": "Attack turret",
+        "fr": "TODO"
+    },
+    "attbomb.ogg": {
+        "en": "attack bomb",
+        "fr": "TODO"
+    },
+    "attleft.ogg": {
+        "en": "attack left",
+        "fr": "TODO"
+    },
+    "attmid.ogg": {
+        "en": "attack middle",
+        "fr": "TODO"
+    },
+    "attright.ogg": {
+        "en": "attack right",
+        "fr": "TODO"
+    },
+    "backcenter.ogg": {
+        "en": "go to back center",
+        "fr": "Va derrière au centre"
+    },
+    "backleft.ogg": {
+        "en": "go to back left",
+        "fr": "Va au derrière à gauche"
+    },
+    "backright.ogg": {
+        "en": "go to back right",
+        "fr": "Va au derrière à droite"
+    },
+    "backtowhereyouwere.ogg": {
+        "en": "Back to where you were",
+        "fr": "TODO"
+    },
+    "backward.ogg": {
+        "en": "face away from the team",
+        "fr": "TODO"
+    },
+    "bait.ogg": {
+        "en": "bait now",
+        "fr": "Appâte maintenant"
+    },
+    "banishment.ogg": {
+        "en": "Banishment on you",
+        "fr": "TODO"
+    },
+    "barrageonway.ogg": {
+        "en": "barrage onway",
+        "fr": "TODO"
+    },
+    "behindboss.ogg": {
+        "en": "Behind Boss",
+        "fr": "Derrière le boss"
+    },
+    "behindmob.ogg": {
+        "en": "Behind Mob",
+        "fr": "Derrière le mob"
+    },
+    "bigmob.ogg": {
+        "en": "Big add",
+        "fr": "TODO"
+    },
+    "bigmobsoon.ogg": {
+        "en": "Big add incoming",
+        "fr": "TODO"
+    },
+    "bitenow.ogg": {
+        "en": "Bite now",
+        "fr": "TODO"
+    },
+    "bloodfeast.ogg": {
+        "en": "Blood Feast",
+        "fr": "Festin de sang"
+    },
+    "bluemushroomcoming.ogg": {
+        "en": "Blue mushroom coming",
+        "fr": "TODO"
+    },
+    "bombnow.ogg": {
+        "en": "detonate soon",
+        "fr": "TODO"
+    },
+    "bombrun.ogg": {
+        "en": "bomb on you, run",
+        "fr": "Bombe sur toi, cours"
+    },
+    "bombsoon.ogg": {
+        "en": "bomb incoming",
+        "fr": "TODO"
+    },
+    "bombyou.ogg": {
+        "en": "Bomb on you",
+        "fr": "TODO"
+    },
+    "bossout.ogg": {
+        "en": "get boss out",
+        "fr": "TODO"
+    },
+    "bosstobeam.ogg": {
+        "en": "Move boss to beam",
+        "fr": "Déplace le boss vers le rayon"
+    },
+    "boundingcleave.ogg": {
+        "en": "Bounding cleave coming",
+        "fr": "TODO"
+    },
+    "breakchain.ogg": {
+        "en": "Break chain",
+        "fr": "TODO"
+    },
+    "breakcoral.ogg": {
+        "en": "Break Coral",
+        "fr": "Brise corail"
+    },
+    "breaklos.ogg": {
+        "en": "break line of sight",
+        "fr": "Brise la ligne de vue"
+    },
+    "breaktormentfirst.ogg": {
+        "en": "Break torment first",
+        "fr": "TODO"
+    },
+    "breaktormentsecond.ogg": {
+        "en": "Break torment second",
+        "fr": "TODO"
+    },
+    "breaktormentthird.ogg": {
+        "en": "Break torment third",
+        "fr": "TODO"
+    },
+    "breathsoon.ogg": {
+        "en": "Breath incoming",
+        "fr": "TODO"
+    },
+    "bringlighttomob.ogg": {
+        "en": "bringlight to mob",
+        "fr": "TODO"
+    },
+    "bringlighttoshadow.ogg": {
+        "en": "bringlight to shadow",
+        "fr": "TODO"
+    },
+    "carefly.ogg": {
+        "en": "Knocking back",
+        "fr": "TODO"
+    },
+    "catchballs.ogg": {
+        "en": "Catch balls",
+        "fr": "TODO"
+    },
+    "center.ogg": {
+        "en": "center",
+        "fr": "centre"
+    },
+    "centerleft.ogg": {
+        "en": "go to center left",
+        "fr": "Va au centre à gauche"
+    },
+    "centerright.ogg": {
+        "en": "go to center right",
+        "fr": "Va au centre à droite"
+    },
+    "changemoon.ogg": {
+        "en": "Change moon",
+        "fr": "Change de lune"
+    },
+    "changemt.ogg": {
+        "en": "switch tank",
+        "fr": "TODO"
+    },
+    "changetarget.ogg": {
+        "en": "change target",
+        "fr": "TODO"
+    },
+    "chargemove.ogg": {
+        "en": "Charging, move",
+        "fr": "TODO"
+    },
+    "checkhp.ogg": {
+        "en": "health warning!",
+        "fr": "TODO"
+    },
+    "cleave.ogg": {
+        "en": "cleave",
+        "fr": "TODO"
+    },
+    "cntnuemove.ogg": {
+        "en": "keep moving",
+        "fr": "TODO"
+    },
+    "com_go.ogg": {
+        "en": "GO GO GO",
+        "fr": "TODO"
+    },
+    "crowdcontrol.ogg": {
+        "en": "crowd control",
+        "fr": "Contrôle de foule"
+    },
+    "crusher.ogg": {
+        "en": "crusher",
+        "fr": "TODO"
+    },
+    "defensive.ogg": {
+        "en": "Defensive",
+        "fr": "TODO"
+    },
+    "demolisher.ogg": {
+        "en": "demolisher",
+        "fr": "TODO"
+    },
+    "di.ogg": {
+        "en": "di",
+        "fr": "COPY"
+    },
+    "didi.ogg": {
+        "en": "didi",
+        "fr": "COPY"
+    },
+    "dispelboss.ogg": {
+        "en": "dispel boss",
+        "fr": "Dissipe le boss"
+    },
+    "dispelnow.ogg": {
+        "en": "dispel",
+        "fr": "TODO"
+    },
+    "dontmove.ogg": {
+        "en": "dont move",
+        "fr": "TODO"
+    },
+    "doubleat.ogg": {
+        "en": "Thrash",
+        "fr": "TODO"
+    },
+    "dragonnow.ogg": {
+        "en": "dragon out",
+        "fr": "TODO"
+    },
+    "dshigh.ogg": {
+        "en": "Mortal Strike high",
+        "fr": "TODO"
+    },
+    "east.ogg": {
+        "en": "east",
+        "fr": "Est"
+    },
+    "end.ogg": {
+        "en": "The end",
+        "fr": "TODO"
+    },
+    "energyhigh.ogg": {
+        "en": "Energy high",
+        "fr": "TODO"
+    },
+    "enfeeblingroar.ogg": {
+        "en": "enfeebling roar",
+        "fr": "TODO"
+    },
+    "engineercoming.ogg": {
+        "en": "engineer coming",
+        "fr": "TODO"
+    },
+    "enrage.ogg": {
+        "en": "enrage",
+        "fr": "TODO"
+    },
+    "failed.ogg": {
+        "en": "failed",
+        "fr": "TODO"
+    },
+    "farfromline.ogg": {
+        "en": "stay away from lines",
+        "fr": "Reste à l'écart des lignes"
+    },
+    "fearsoon.ogg": {
+        "en": "fear incoming",
+        "fr": "TODO"
+    },
+    "felinfusion.ogg": {
+        "en": "Fel Infusion on you",
+        "fr": "Infusion gangrenée sur toi"
+    },
+    "findcrab.ogg": {
+        "en": "find crab",
+        "fr": "TODO"
+    },
+    "finddragon.ogg": {
+        "en": "find dragon",
+        "fr": "TODO"
+    },
+    "findflamejet.ogg": {
+        "en": "find flame jet",
+        "fr": "TODO"
+    },
+    "findhunter.ogg": {
+        "en": "find hunter",
+        "fr": "TODO"
+    },
+    "findmc.ogg": {
+        "en": "mind control",
+        "fr": "TODO"
+    },
+    "findshadow.ogg": {
+        "en": "get inside the shadow",
+        "fr": "Entre dans l'ombre"
+    },
+    "findshelter.ogg": {
+        "en": "find shelter",
+        "fr": "Trouve un refuge"
+    },
+    "findshield.ogg": {
+        "en": "find shield",
+        "fr": "Trouve un bouclier"
+    },
+    "findwolf.ogg": {
+        "en": "find wolf",
+        "fr": "TODO"
+    },
+    "firecallercoming.ogg": {
+        "en": "fire caller coming",
+        "fr": "TODO"
+    },
+    "firecircle.ogg": {
+        "en": "fire circle",
+        "fr": "TODO"
+    },
+    "firerun.ogg": {
+        "en": "Fire on you, Run",
+        "fr": "TODO"
+    },
+    "firewall.ogg": {
+        "en": "firewall",
+        "fr": "TODO"
+    },
+    "flamebelcher.ogg": {
+        "en": "flame belcher",
+        "fr": "TODO"
+    },
+    "flamejet.ogg": {
+        "en": "flame jet",
+        "fr": "TODO"
+    },
+    "focusedchaosyou.ogg": {
+        "en": "focused chaos on you, run",
+        "fr": "TODO"
+    },
+    "forcenovacoming.ogg": {
+        "en": "force nova coming",
+        "fr": "TODO"
+    },
+    "frenzy.ogg": {
+        "en": "frenzy",
+        "fr": "frénésie"
+    },
+    "frontcenter.ogg": {
+        "en": "go to front center",
+        "fr": "Va devant au centre"
+    },
+    "frontleft.ogg": {
+        "en": "go to front left",
+        "fr": "Va devant à gauche"
+    },
+    "frontright.ogg": {
+        "en": "go to front right",
+        "fr": "Va devant à droite"
+    },
+    "frost.ogg": {
+        "en": "Frost",
+        "fr": "Gel"
+    },
+    "gather.ogg": {
+        "en": "stack",
+        "fr": "TODO"
+    },
+    "gatheritem.ogg": {
+        "en": "Gather Item",
+        "fr": "Ramasse l'objet"
+    },
+    "gathershare.ogg": {
+        "en": "Stack",
+        "fr": "Empiler"
+    },
+    "getboned.ogg": {
+        "en": "get bone",
+        "fr": "TODO"
+    },
+    "getinyellowrunes.ogg": {
+        "en": "get in yellow runes",
+        "fr": "TODO"
+    },
+    "ghostsoon.ogg": {
+        "en": "spirit incoming",
+        "fr": "TODO"
+    },
+    "giftofearth.ogg": {
+        "en": "gift of earth",
+        "fr": "TODO"
+    },
+    "greenmushroomcoming.ogg": {
+        "en": "green mushroom coming",
+        "fr": "TODO"
+    },
+    "group1.ogg": {
+        "en": "Group One",
+        "fr": "Groupe un"
+    },
+    "group2.ogg": {
+        "en": "Group Two",
+        "fr": "Groupe deux"
+    },
+    "group3.ogg": {
+        "en": "Group Three",
+        "fr": "Groupe 3"
+    },
+    "group4.ogg": {
+        "en": "Group Four",
+        "fr": "Groupe 4"
+    },
+    "group5.ogg": {
+        "en": "Group Five",
+        "fr": "Groupe 5"
+    },
+    "harmonic.ogg": {
+        "en": "harmonic",
+        "fr": "TODO"
+    },
+    "healall.ogg": {
+        "en": "heal team",
+        "fr": "TODO"
+    },
+    "healfull.ogg": {
+        "en": "heal to full",
+        "fr": "Soigne complètement"
+    },
+    "helpdispel.ogg": {
+        "en": "dispel",
+        "fr": "TODO"
+    },
+    "helpkick.ogg": {
+        "en": "interrupt",
+        "fr": "TODO"
+    },
+    "helpme.ogg": {
+        "en": "Help",
+        "fr": "TODO"
+    },
+    "helpme2.ogg": {
+        "en": "Help me",
+        "fr": "TODO"
+    },
+    "helpsoak.ogg": {
+        "en": "help soak",
+        "fr": "TODO"
+    },
+    "holdit.ogg": {
+        "en": "defensive",
+        "fr": "TODO"
+    },
+    "iceorbmove.ogg": {
+        "en": "ice orb, move away",
+        "fr": "TODO"
+    },
+    "inhalegetinpuddle.ogg": {
+        "en": "in hale, get inside the puddle",
+        "fr": "TODO"
+    },
+    "inktoshark.ogg": {
+        "en": "bring ink to shark",
+        "fr": "Apporte l'encre au requin"
+    },
+    "interruptbyeye.ogg": {
+        "en": "interrupt by eye",
+        "fr": "TODO"
+    },
+    "interruptingshout.ogg": {
+        "en": "interrupting shout",
+        "fr": "TODO"
+    },
+    "interruptsoon.ogg": {
+        "en": "ready to interrupt",
+        "fr": "TODO"
+    },
+    "jumpinpit.ogg": {
+        "en": "Jump in Pit",
+        "fr": "Saute dans la fausse"
+    },
+    "jumpnow.ogg": {
+        "en": "jump now",
+        "fr": "Saute, maintenant"
+    },
+    "justrun.ogg": {
+        "en": "run",
+        "fr": "TODO"
+    },
+    "keepjump.ogg": {
+        "en": "keep jumping",
+        "fr": "TODO"
+    },
+    "keepmove.ogg": {
+        "en": "keep moving",
+        "fr": "TODO"
+    },
+    "kick1r.ogg": {
+        "en": "interrupt 1",
+        "fr": "interromps un"
+    },
+    "kick2r.ogg": {
+        "en": "interrupt 2",
+        "fr": "interromps deux"
+    },
+    "kick3r.ogg": {
+        "en": "interrupt 3",
+        "fr": "interromps trois"
+    },
+    "kick4r.ogg": {
+        "en": "interrupt 4",
+        "fr": "interromps quatre"
+    },
+    "kick5r.ogg": {
+        "en": "interrupt 5",
+        "fr": "interromps cinq"
+    },
+    "kickcast.ogg": {
+        "en": "interrupt",
+        "fr": "TODO"
+    },
+    "killbigmob.ogg": {
+        "en": "Kill big add",
+        "fr": "TODO"
+    },
+    "killmine.ogg": {
+        "en": "attack Crawler Mine",
+        "fr": "TODO"
+    },
+    "killmob.ogg": {
+        "en": "kill adds",
+        "fr": "TODO"
+    },
+    "killspirit.ogg": {
+        "en": "attack spirit",
+        "fr": "TODO"
+    },
+    "laserrun.ogg": {
+        "en": "laser on you, run",
+        "fr": "TODO"
+    },
+    "leavecenter.ogg": {
+        "en": "leave center",
+        "fr": "TODO"
+    },
+    "leavemind.ogg": {
+        "en": "Leave Mind",
+        "fr": "Quitte l'esprit"
+    },
+    "left.ogg": {
+        "en": "left",
+        "fr": "gauche"
+    },
+    "lightinfusion.ogg": {
+        "en": "Light Infusion on you",
+        "fr": "Infusion de lumière sur toi"
+    },
+    "lightstorm.ogg": {
+        "en": "Lightning Storm",
+        "fr": "TODO"
+    },
+    "lineapart.ogg": {
+        "en": "line apart",
+        "fr": "ligne à part"
+    },
+    "linegather.ogg": {
+        "en": "line, gather",
+        "fr": "TODO"
+    },
+    "linesoon.ogg": {
+        "en": "link incoming",
+        "fr": "TODO"
+    },
+    "lowsanity.ogg": {
+        "en": "Low Sanity",
+        "fr": "santé mentale faible"
+    },
+    "markedfordeath.ogg": {
+        "en": "marked for death",
+        "fr": "TODO"
+    },
+    "mblue.ogg": {
+        "en": "move to blue",
+        "fr": "Va au bleu"
+    },
+    "melodic.ogg": {
+        "en": "melodic",
+        "fr": "TODO"
+    },
+    "meteorrun.ogg": {
+        "en": "meteor, run",
+        "fr": "TODO"
+    },
+    "mgreen.ogg": {
+        "en": "move to green",
+        "fr": "Va au vert"
+    },
+    "mm1.ogg": {
+        "en": "move to Star",
+        "fr": "Va à l'étoile"
+    },
+    "mm2.ogg": {
+        "en": "move to Circle",
+        "fr": "Va au cercle"
+    },
+    "mm3.ogg": {
+        "en": "move to Diamond",
+        "fr": "Va au diamand"
+    },
+    "mm4.ogg": {
+        "en": "move to Triangle",
+        "fr": "Va au triangle"
+    },
+    "mm5.ogg": {
+        "en": "move to Moon",
+        "fr": "Va à la lune"
+    },
+    "mm6.ogg": {
+        "en": "move to Square",
+        "fr": "Va au carré"
+    },
+    "mm7.ogg": {
+        "en": "move to Cross",
+        "fr": "Va à la croix"
+    },
+    "mm8.ogg": {
+        "en": "move to Skull",
+        "fr": "Va à la tête de mort"
+    },
+    "mobenough.ogg": {
+        "en": "energy full. stay away from adds.",
+        "fr": "TODO"
+    },
+    "mobkill.ogg": {
+        "en": "kill adds",
+        "fr": "TODO"
+    },
+    "mobout.ogg": {
+        "en": "pull adds out",
+        "fr": "poule les montres en dehors"
+    },
+    "mobsoon.ogg": {
+        "en": "adds coming",
+        "fr": "TODO"
+    },
+    "morange.ogg": {
+        "en": "move to orange",
+        "fr": "Va à l'orange"
+    },
+    "moveboss.ogg": {
+        "en": "Move Boss",
+        "fr": "Déplace le boss"
+    },
+    "movecenter.ogg": {
+        "en": "move to center",
+        "fr": "Va au centre"
+    },
+    "moveleft.ogg": {
+        "en": "move left",
+        "fr": "TODO"
+    },
+    "movemelee.ogg": {
+        "en": "move to melee",
+        "fr": "Va au corps à corps"
+    },
+    "moveright.ogg": {
+        "en": "move right",
+        "fr": "TODO"
+    },
+    "movesoon.ogg": {
+        "en": "get moving",
+        "fr": "TODO"
+    },
+    "movetimebubble.ogg": {
+        "en": "Move to time bubble",
+        "fr": "Va à la bulle de temps"
+    },
+    "movetojelly.ogg": {
+        "en": "move to jellyfish",
+        "fr": "Va sur la méduse"
+    },
+    "movetotank.ogg": {
+        "en": "move to tank",
+        "fr": "Va sur le tank"
+    },
+    "mpurple.ogg": {
+        "en": "move to purple",
+        "fr": "Va au violet"
+    },
+    "myellow.ogg": {
+        "en": "move to yellow",
+        "fr": "Va au jaune"
+    },
+    "newmatrix.ogg": {
+        "en": "Matrix on you",
+        "fr": "Matrice sur toi"
+    },
+    "newportal.ogg": {
+        "en": "new portal",
+        "fr": "Nouveau portail"
+    },
+    "north.ogg": {
+        "en": "north",
+        "fr": "Nord"
+    },
+    "northeast.ogg": {
+        "en": "northeast",
+        "fr": "Nord Est"
+    },
+    "northwest.ogg": {
+        "en": "northwest",
+        "fr": "Nord Ouest"
+    },
+    "orbrun.ogg": {
+        "en": "orb. run.",
+        "fr": "TODO"
+    },
+    "otherin.ogg": {
+        "en": "player in",
+        "fr": "TODO"
+    },
+    "otherout.ogg": {
+        "en": "player out",
+        "fr": "TODO"
+    },
+    "pfive.ogg": {
+        "en": "phase five",
+        "fr": "Phase 5"
+    },
+    "pfour.ogg": {
+        "en": "phase 4",
+        "fr": "Phase quatre"
+    },
+    "phasechange.ogg": {
+        "en": "phase change",
+        "fr": "TODO"
+    },
+    "pone.ogg": {
+        "en": "Phase one",
+        "fr": "Phase un"
+    },
+    "pthree.ogg": {
+        "en": "phase three",
+        "fr": "TODO"
+    },
+    "ptran.ogg": {
+        "en": "Transition phase",
+        "fr": "Phase de transition"
+    },
+    "ptwo.ogg": {
+        "en": "phase two",
+        "fr": "TODO"
+    },
+    "pullin.ogg": {
+        "en": "pullinging",
+        "fr": "TODO"
+    },
+    "pulverize.ogg": {
+        "en": "pulverize",
+        "fr": "TODO"
+    },
+    "quake.ogg": {
+        "en": "quake",
+        "fr": "TODO"
+    },
+    "range5.ogg": {
+        "en": "range five",
+        "fr": "TODO"
+    },
+    "readyrescue.ogg": {
+        "en": "Prepare rescue",
+        "fr": "TODO"
+    },
+    "right.ogg": {
+        "en": "right",
+        "fr": "droite"
+    },
+    "runaway.ogg": {
+        "en": "run away",
+        "fr": "TODO"
+    },
+    "runin.ogg": {
+        "en": "run in",
+        "fr": "TODO"
+    },
+    "runintofire.ogg": {
+        "en": "run into the fire",
+        "fr": "TODO"
+    },
+    "runout.ogg": {
+        "en": "run out",
+        "fr": "TODO"
+    },
+    "runoverflowers.ogg": {
+        "en": "run over flowers",
+        "fr": "TODO"
+    },
+    "runtoedge.ogg": {
+        "en": "run to edge of room",
+        "fr": "Cours jusqu'au bord de la pièce"
+    },
+    "safenow.ogg": {
+        "en": "safe now",
+        "fr": "TODO"
+    },
+    "scatter.ogg": {
+        "en": "spread",
+        "fr": "TODO"
+    },
+    "scattersoon.ogg": {
+        "en": "spread soon",
+        "fr": "TODO"
+    },
+    "securityguardcoming.ogg": {
+        "en": "security guard coming",
+        "fr": "TODO"
+    },
+    "shadowrun.ogg": {
+        "en": "Shadow on you",
+        "fr": "TODO"
+    },
+    "shareone.ogg": {
+        "en": "group one share",
+        "fr": "Groupe un, partagez"
+    },
+    "sharetwo.ogg": {
+        "en": "group two share",
+        "fr": "Gtoupe deux, partagez"
+    },
+    "shieldcharge.ogg": {
+        "en": "shield charge",
+        "fr": "TODO"
+    },
+    "shieldover.ogg": {
+        "en": "shield over",
+        "fr": "TODO"
+    },
+    "shockwave.ogg": {
+        "en": "shock wave",
+        "fr": "TODO"
+    },
+    "silencesoon.ogg": {
+        "en": "silence soon",
+        "fr": "Silence bientôt"
+    },
+    "slagelementalcoming.ogg": {
+        "en": "slag elemental coming",
+        "fr": "TODO"
+    },
+    "soulcleave.ogg": {
+        "en": "soul cleave",
+        "fr": "TODO"
+    },
+    "south.ogg": {
+        "en": "south",
+        "fr": "Sud"
+    },
+    "southeast.ogg": {
+        "en": "southeast",
+        "fr": "Sud Est"
+    },
+    "southwest.ogg": {
+        "en": "southwest",
+        "fr": "Sud Ouest"
+    },
+    "spear.ogg": {
+        "en": "spear",
+        "fr": "TODO"
+    },
+    "specialsoon.ogg": {
+        "en": "special coming",
+        "fr": "TODO"
+    },
+    "speedup.ogg": {
+        "en": "speed up",
+        "fr": "TODO"
+    },
+    "stackhigh.ogg": {
+        "en": "stack high",
+        "fr": "Beaucoup de stack"
+    },
+    "stepring.ogg": {
+        "en": "step into the circles",
+        "fr": "TODO"
+    },
+    "stilldanger.ogg": {
+        "en": "danger danger",
+        "fr": "TODO"
+    },
+    "stompsoon.ogg": {
+        "en": "quake soon",
+        "fr": "TODO"
+    },
+    "stompstart.ogg": {
+        "en": "quake start",
+        "fr": "TODO"
+    },
+    "stopatk.ogg": {
+        "en": "stop attacking",
+        "fr": "TODO"
+    },
+    "stopattack.ogg": {
+        "en": "stop attacking",
+        "fr": "TODO"
+    },
+    "stopcast.ogg": {
+        "en": "stop casting",
+        "fr": "TODO"
+    },
+    "stopmove.ogg": {
+        "en": "stop moving",
+        "fr": "TODO"
+    },
+    "stunsoon.ogg": {
+        "en": "stun incoming",
+        "fr": "TODO"
+    },
+    "sunderhigh.ogg": {
+        "en": "sunder high",
+        "fr": "TODO"
+    },
+    "swapsoon.ogg": {
+        "en": "Swap Soon",
+        "fr": "Échange bientôt"
+    },
+    "switchphase.ogg": {
+        "en": "Switch Phase",
+        "fr": "Change de phase"
+    },
+    "takedamage.ogg": {
+        "en": "take damage",
+        "fr": "Prends les dégats"
+    },
+    "tankheal.ogg": {
+        "en": "heal tank",
+        "fr": "TODO"
+    },
+    "targetchange.ogg": {
+        "en": "target change",
+        "fr": "TODO"
+    },
+    "targetyou.ogg": {
+        "en": "target you",
+        "fr": "TODO"
+    },
+    "tauntboss.ogg": {
+        "en": "taunt boss",
+        "fr": "TODO"
+    },
+    "telesoon.ogg": {
+        "en": "teleport incoming",
+        "fr": "TODO"
+    },
+    "teleyou.ogg": {
+        "en": "teleport on you",
+        "fr": "TODO"
+    },
+    "thanks.ogg": {
+        "en": "Thanks",
+        "fr": "TODO"
+    },
+    "throweyedebuff.ogg": {
+        "en": "throw eye to someone with debuff",
+        "fr": "TODO"
+    },
+    "throweyehealer.ogg": {
+        "en": "throw eye to healer",
+        "fr": "TODO"
+    },
+    "throweyetank.ogg": {
+        "en": "throw eye to tank",
+        "fr": "TODO"
+    },
+    "tosscoming.ogg": {
+        "en": "toss coming",
+        "fr": "TODO"
+    },
+    "tossonyou.ogg": {
+        "en": "toss on you",
+        "fr": "TODO"
+    },
+    "touchwhiteshrooms.ogg": {
+        "en": "touch white shrooms",
+        "fr": "TODO"
+    },
+    "toxic.ogg": {
+        "en": "Toxic",
+        "fr": "Toxique"
+    },
+    "trannow.ogg": {
+        "en": "Tranquilizing Shot now",
+        "fr": "TODO"
+    },
+    "transplague.ogg": {
+        "en": "Transfer Soul",
+        "fr": "TODO"
+    },
+    "transporter.ogg": {
+        "en": "transporter",
+        "fr": "TODO"
+    },
+    "turnaway.ogg": {
+        "en": "face away",
+        "fr": "TODO"
+    },
+    "useextraaction.ogg": {
+        "en": "use extraction",
+        "fr": "TODO"
+    },
+    "useitem.ogg": {
+        "en": "Use item",
+        "fr": "Utilise l'objet"
+    },
+    "uu.ogg": {
+        "en": "yours",
+        "fr": "TODO"
+    },
+    "watchfeet.ogg": {
+        "en": "Watch your feet",
+        "fr": "Surveille tes pieds"
+    },
+    "watchimpale.ogg": {
+        "en": "impale",
+        "fr": "TODO"
+    },
+    "watchorb.ogg": {
+        "en": "watch orb",
+        "fr": "TODO"
+    },
+    "watchstep.ogg": {
+        "en": "watch your step",
+        "fr": "TODO"
+    },
+    "watchwave.ogg": {
+        "en": "watch wave",
+        "fr": "TODO"
+    },
+    "west.ogg": {
+        "en": "west",
+        "fr": "Ouest"
+    },
+    "whirlwind.ogg": {
+        "en": "Whirlwind",
+        "fr": "Tourbillon"
+    },
+    "wroughtchaosyou.ogg": {
+        "en": "wrought chaos on you, run",
+        "fr": "TODO"
+    },
+    "wwsoon.ogg": {
+        "en": "Rushing Winds coming",
+        "fr": "TODO"
+    },
+    "count/1.ogg": {
+        "en": "one",
+        "fr": "TODO"
+    },
+    "count/10.ogg": {
+        "en": "ten",
+        "fr": "TODO"
+    },
+    "count/11.ogg": {
+        "en": "eleven",
+        "fr": "TODO"
+    },
+    "count/2.ogg": {
+        "en": "two",
+        "fr": "TODO"
+    },
+    "count/3.ogg": {
+        "en": "three",
+        "fr": "TODO"
+    },
+    "count/4.ogg": {
+        "en": "four",
+        "fr": "TODO"
+    },
+    "count/5.ogg": {
+        "en": "five",
+        "fr": "TODO"
+    },
+    "count/6.ogg": {
+        "en": "six",
+        "fr": "TODO"
+    },
+    "count/7.ogg": {
+        "en": "seven",
+        "fr": "TODO"
+    },
+    "count/8.ogg": {
+        "en": "eight",
+        "fr": "TODO"
+    },
+    "count/9.ogg": {
+        "en": "nine",
+        "fr": "TODO"
+    },
+    "Thogar/A1.ogg": {
+        "en": "lane 1 express",
+        "fr": "voie un express"
+    },
+    "Thogar/A14.ogg": {
+        "en": "lane 1 and 4 expresses",
+        "fr": "voie 1 et 4 express"
+    },
+    "Thogar/A2.ogg": {
+        "en": "lane 2 express",
+        "fr": "voie deux express"
+    },
+    "Thogar/A23.ogg": {
+        "en": "lane 2 and 3 expresses",
+        "fr": "voie 2 et 3 express"
+    },
+    "Thogar/A3.ogg": {
+        "en": "lane 3 express",
+        "fr": "voie trois express"
+    },
+    "Thogar/A4.ogg": {
+        "en": "lane 4 express",
+        "fr": "voie quatre express"
+    },
+    "Thogar/AX.ogg": {
+        "en": "random express",
+        "fr": "express alétoire"
+    },
+    "Thogar/B1.ogg": {
+        "en": "lane 1 Reinforcements",
+        "fr": "Renfort, couloir un"
+    },
+    "Thogar/B1E4.ogg": {
+        "en": "lane 1 Reinforcements and lane 4 Deforester",
+        "fr": "voie 1 Renforts et voie 4 Déforesteur"
+    },
+    "Thogar/B2.ogg": {
+        "en": "lane 2 Reinforcements",
+        "fr": "Renfort, couloir deux"
+    },
+    "Thogar/B23.ogg": {
+        "en": "lane 2 and 3 Reinforcements",
+        "fr": "voie 2 et 4 Renfort"
+    },
+    "Thogar/B2A4.ogg": {
+        "en": "lane 2 Reinforcements and lane 4 expresses",
+        "fr": "voie 2 Renforts et voie 4 express"
+    },
+    "Thogar/B2D3.ogg": {
+        "en": "lane 2 Reinforcements and lane 3 Man on Arms",
+        "fr": "couloir 2 Renforts et couloir 3 Homme en armes"
+    },
+    "Thogar/B3.ogg": {
+        "en": "lane 3 Reinforcements",
+        "fr": "Renfort, couloir trois"
+    },
+    "Thogar/B4.ogg": {
+        "en": "lane 4 Reinforcements",
+        "fr": "Renfort, couloir quatre"
+    },
+    "Thogar/BX.ogg": {
+        "en": "random Reinforcements",
+        "fr": "Renfort aléatoire"
+    },
+    "Thogar/C1.ogg": {
+        "en": "lane 1 cannon",
+        "fr": "Canon, voie un"
+    },
+    "Thogar/C14.ogg": {
+        "en": "lane 1 and 4 cannons",
+        "fr": "voie 1 et 4 canons"
+    },
+    "Thogar/C1D4.ogg": {
+        "en": "lane 1 cannon and lane 4 Man On Arms",
+        "fr": "voie 1 canon et voie 4 homme d'armes"
+    },
+    "Thogar/C2.ogg": {
+        "en": "lane 2 cannon",
+        "fr": "Canon, voie deux"
+    },
+    "Thogar/C3.ogg": {
+        "en": "lane 3 cannon",
+        "fr": "Canon, voie trois"
+    },
+    "Thogar/C4.ogg": {
+        "en": "lane 4 cannon",
+        "fr": "Canon, voie quatre"
+    },
+    "Thogar/CX.ogg": {
+        "en": "random cannon",
+        "fr": "Canon aléatoire"
+    },
+    "Thogar/D1.ogg": {
+        "en": "lane 1 Man On Arms",
+        "fr": "Homme d'armes, voie un"
+    },
+    "Thogar/D1C4.ogg": {
+        "en": "lane 1 Man On Arms and lane 4 cannon",
+        "fr": "voie 1 homme d'armes et voie 4 canon"
+    },
+    "Thogar/D2.ogg": {
+        "en": "lane 2 Man On Arms",
+        "fr": "Homme d'armes, voie deux"
+    },
+    "Thogar/D2B3.ogg": {
+        "en": "lane 2 Man On Arms and lane 3 Reinforcements",
+        "fr": "couloir 2 Homme en armes et couloir 3 Renforts"
+    },
+    "Thogar/D2C4.ogg": {
+        "en": "lane 2 Man on Arms and lane 4 cannon",
+        "fr": "voie 2 Homme d'armes et voie 4 canon"
+    },
+    "Thogar/D3.ogg": {
+        "en": "lane 3 Man On Arms",
+        "fr": "Homme d'armes, voie trois"
+    },
+    "Thogar/D4.ogg": {
+        "en": "lane 4 Man On Arms",
+        "fr": "Homme d'armes, voie quatre"
+    },
+    "Thogar/DX.ogg": {
+        "en": "random Man On Arms",
+        "fr": "Homme d'armes aléatoire"
+    },
+    "Thogar/E1.ogg": {
+        "en": "lane 1 Deforester",
+        "fr": "Déforesteur, voie un"
+    },
+    "Thogar/E1A23.ogg": {
+        "en": "lane 1 Deforester. lane 2 and 3 expresses",
+        "fr": "voie 1 Déforesteur. voie 2 et 3 express"
+    },
+    "Thogar/E2.ogg": {
+        "en": "lane 2 Deforester",
+        "fr": "Déforesteur, voie deux"
+    },
+    "Thogar/E23.ogg": {
+        "en": "lane 2 and 3 Deforester",
+        "fr": "voie 2 et 3 Déforesteur"
+    },
+    "Thogar/E3.ogg": {
+        "en": "lane 3 Deforester",
+        "fr": "Déforesteur, voie trois"
+    },
+    "Thogar/E4.ogg": {
+        "en": "lane 4 Deforester",
+        "fr": "Déforesteur, voie quatre"
+    },
+    "Thogar/F.ogg": {
+        "en": "3 Random Lanes",
+        "fr": "trois voie aléatoires"
+    }
+}

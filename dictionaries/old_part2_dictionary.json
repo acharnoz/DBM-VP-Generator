@@ -1,0 +1,2182 @@
+{
+    "abrun.ogg": {
+        "en": "a b run",
+        "fr": "TODO"
+    },
+    "aesoon.ogg": {
+        "en": "a o e incoming",
+        "fr": "TODO"
+    },
+    "attleft.ogg": {
+        "en": "attack left",
+        "fr": "TODO"
+    },
+    "attmid.ogg": {
+        "en": "attack middle",
+        "fr": "TODO"
+    },
+    "attright.ogg": {
+        "en": "attack right",
+        "fr": "TODO"
+    },
+    "backward.ogg": {
+        "en": "face away from the team",
+        "fr": "TODO"
+    },
+    "banishment.ogg": {
+        "en": "Banishment on you",
+        "fr": "TODO"
+    },
+    "bigmob.ogg": {
+        "en": "Big add",
+        "fr": "TODO"
+    },
+    "bigmobsoon.ogg": {
+        "en": "Big add incoming",
+        "fr": "TODO"
+    },
+    "bombnow.ogg": {
+        "en": "detonate soon",
+        "fr": "TODO"
+    },
+    "bombsoon.ogg": {
+        "en": "bomb incoming",
+        "fr": "TODO"
+    },
+    "bossout.ogg": {
+        "en": "get boss out",
+        "fr": "TODO"
+    },
+    "breathsoon.ogg": {
+        "en": "Breath incoming",
+        "fr": "TODO"
+    },
+    "carefly.ogg": {
+        "en": "knocking back",
+        "fr": "TODO"
+    },
+    "changemt.ogg": {
+        "en": "switch tank",
+        "fr": "TODO"
+    },
+    "changetarget.ogg": {
+        "en": "change target",
+        "fr": "TODO"
+    },
+    "chargemove.ogg": {
+        "en": "Charging, move",
+        "fr": "TODO"
+    },
+    "checkhp.ogg": {
+        "en": "health warning!",
+        "fr": "TODO"
+    },
+    "cntnuemove.ogg": {
+        "en": "keep moving",
+        "fr": "TODO"
+    },
+    "com_go.ogg": {
+        "en": "GO GO GO",
+        "fr": "TODO"
+    },
+    "count/1.ogg": {
+        "en": "one",
+        "fr": "TODO"
+    },
+    "count/2.ogg": {
+        "en": "two",
+        "fr": "TODO"
+    },
+    "count/3.ogg": {
+        "en": "three",
+        "fr": "TODO"
+    },
+    "count/4.ogg": {
+        "en": "four",
+        "fr": "TODO"
+    },
+    "count/5.ogg": {
+        "en": "five",
+        "fr": "TODO"
+    },
+    "count/6.ogg": {
+        "en": "six",
+        "fr": "TODO"
+    },
+    "count/7.ogg": {
+        "en": "seven",
+        "fr": "TODO"
+    },
+    "count/8.ogg": {
+        "en": "eight",
+        "fr": "TODO"
+    },
+    "count/9.ogg": {
+        "en": "nine",
+        "fr": "TODO"
+    },
+    "count/10.ogg": {
+        "en": "ten",
+        "fr": "TODO"
+    },
+    "count/11.ogg": {
+        "en": "eleven",
+        "fr": "TODO"
+    },
+    "dead.ogg": {
+        "en": "dead",
+        "fr": "TODO"
+    },
+    "defensive.ogg": {
+        "en": "Defensive",
+        "fr": "TODO"
+    },
+    "di.ogg": {
+        "en": "di",
+        "fr": "TODO"
+    },
+    "didi.ogg": {
+        "en": "didi",
+        "fr": "TODO"
+    },
+    "dispelnow.ogg": {
+        "en": "dispel",
+        "fr": "TODO"
+    },
+    "doubleat.ogg": {
+        "en": "Thrash",
+        "fr": "TODO"
+    },
+    "dragonnow.ogg": {
+        "en": "dragon out",
+        "fr": "TODO"
+    },
+    "dshigh.ogg": {
+        "en": "Mortal Strike high",
+        "fr": "TODO"
+    },
+    "end.ogg": {
+        "en": "The end",
+        "fr": "TODO"
+    },
+    "energyhigh.ogg": {
+        "en": "Energy high",
+        "fr": "TODO"
+    },
+    "enrage.ogg": {
+        "en": "enrage",
+        "fr": "TODO"
+    },
+    "ex_hong.ogg": {
+        "en": "attack red",
+        "fr": "TODO"
+    },
+    "ex_huang.ogg": {
+        "en": "attack yellow",
+        "fr": "TODO"
+    },
+    "ex_lan.ogg": {
+        "en": "attack blue",
+        "fr": "TODO"
+    },
+    "ex_mop_aykd.ogg": {
+        "en": "Night Phase",
+        "fr": "TODO"
+    },
+    "ex_mop_ayxt.ogg": {
+        "en": "Shadow Phase",
+        "fr": "TODO"
+    },
+    "ex_mop_bckd.ogg": {
+        "en": "Flanking Orders",
+        "fr": "TODO"
+    },
+    "ex_mop_bczb.ogg": {
+        "en": "Flanking Orders incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_bpzb.ogg": {
+        "en": "bomb incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_bwzcx.ogg": {
+        "en": "protector",
+        "fr": "TODO"
+    },
+    "ex_mop_bwzkd.ogg": {
+        "en": "attack protector",
+        "fr": "TODO"
+    },
+    "ex_mop_center.ogg": {
+        "en": "Arc Center",
+        "fr": "TODO"
+    },
+    "ex_mop_clzb.ogg": {
+        "en": "Naked and Afraid incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_csgg.ogg": {
+        "en": "stacks high",
+        "fr": "TODO"
+    },
+    "ex_mop_czgg.ogg": {
+        "en": "Overcharged stacks high",
+        "fr": "TODO"
+    },
+    "ex_mop_dbkd.ogg": {
+        "en": "attack Courage",
+        "fr": "TODO"
+    },
+    "ex_mop_dbzb.ogg": {
+        "en": "Courage coming",
+        "fr": "TODO"
+    },
+    "ex_mop_dkxt.ogg": {
+        "en": "Crazed",
+        "fr": "TODO"
+    },
+    "ex_mop_dqkd.ogg": {
+        "en": "Focus Power",
+        "fr": "TODO"
+    },
+    "ex_mop_dwhd.ogg": {
+        "en": "Sleight of Hand",
+        "fr": "TODO"
+    },
+    "ex_mop_dwjh.ogg": {
+        "en": "Swift King Activated",
+        "fr": "TODO"
+    },
+    "ex_mop_dyq.ogg": {
+        "en": "Force and Verve",
+        "fr": "TODO"
+    },
+    "ex_mop_dzcz.ogg": {
+        "en": "Power Down",
+        "fr": "TODO"
+    },
+    "ex_mop_fd.ogg": {
+        "en": "Whirling Blade",
+        "fr": "TODO"
+    },
+    "ex_mop_fsxt.ogg": {
+        "en": "Cowardice",
+        "fr": "TODO"
+    },
+    "ex_mop_ghcx.ogg": {
+        "en": "Light Of Day",
+        "fr": "TODO"
+    },
+    "ex_mop_hj.ogg": {
+        "en": "Furious Swipe",
+        "fr": "TODO"
+    },
+    "ex_mop_hpbz.ogg": {
+        "en": "Amber Explosion",
+        "fr": "TODO"
+    },
+    "ex_mop_hqcx.ogg": {
+        "en": "Fixate",
+        "fr": "TODO"
+    },
+    "ex_mop_hqzn.ogg": {
+        "en": "Fixate on you",
+        "fr": "TODO"
+    },
+    "ex_mop_hscz.ogg": {
+        "en": "Jasper overload",
+        "fr": "TODO"
+    },
+    "ex_mop_hssh.ogg": {
+        "en": "Jasper Petrification",
+        "fr": "TODO"
+    },
+    "ex_mop_hyxt.ogg": {
+        "en": "Flame Phase",
+        "fr": "TODO"
+    },
+    "ex_mop_hyzb.ogg": {
+        "en": "night phase coming",
+        "fr": "TODO"
+    },
+    "ex_mop_jgbz.ogg": {
+        "en": "Amber Explosion",
+        "fr": "TODO"
+    },
+    "ex_mop_jhzs.ogg": {
+        "en": "Cleansing Waters",
+        "fr": "TODO"
+    },
+    "ex_mop_jjsw.ogg": {
+        "en": "Dying",
+        "fr": "TODO"
+    },
+    "ex_mop_jknh.ogg": {
+        "en": "Maddening Shout in five",
+        "fr": "TODO"
+    },
+    "ex_mop_jmzb.ogg": {
+        "en": "Massive Attack incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_jrgd.ogg": {
+        "en": "Go to Totem",
+        "fr": "TODO"
+    },
+    "ex_mop_jscz.ogg": {
+        "en": "Parasitic Growth",
+        "fr": "TODO"
+    },
+    "ex_mop_jt.ogg": {
+        "en": "stomp",
+        "fr": "TODO"
+    },
+    "ex_mop_jykd.ogg": {
+        "en": "Death Blossom",
+        "fr": "TODO"
+    },
+    "ex_mop_kbpszb.ogg": {
+        "en": "Dread Spray",
+        "fr": "TODO"
+    },
+    "ex_mop_kdbwds.ogg": {
+        "en": "attack Unstable Shar",
+        "fr": "TODO"
+    },
+    "ex_mop_kdkjzz.ogg": {
+        "en": "Conjure Terror Spawns",
+        "fr": "TODO"
+    },
+    "ex_mop_kgbh.ogg": {
+        "en": "give protection now",
+        "fr": "TODO"
+    },
+    "ex_mop_kgts.ogg": {
+        "en": "angel now",
+        "fr": "TODO"
+    },
+    "ex_mop_kj.ogg": {
+        "en": "cross over",
+        "fr": "TODO"
+    },
+    "ex_mop_kjjx.ogg": {
+        "en": "Summon Embodied Terror",
+        "fr": "TODO"
+    },
+    "ex_mop_kjts.ogg": {
+        "en": "Consuming Terror",
+        "fr": "TODO"
+    },
+    "ex_mop_kjyy.ogg": {
+        "en": "Cry of Terror on you, get in Dissonance Field",
+        "fr": "TODO"
+    },
+    "ex_mop_kjzc.ogg": {
+        "en": "get in center circle",
+        "fr": "TODO"
+    },
+    "ex_mop_kl.ogg": {
+        "en": "Frenzy",
+        "fr": "TODO"
+    },
+    "ex_mop_kwjh.ogg": {
+        "en": "Demented king activated",
+        "fr": "TODO"
+    },
+    "ex_mop_kwjn.ogg": {
+        "en": "Demented king enraged",
+        "fr": "TODO"
+    },
+    "ex_mop_kzc.ogg": {
+        "en": "Justice now",
+        "fr": "TODO"
+    },
+    "ex_mop_kzjs.ogg": {
+        "en": "c c expiring",
+        "fr": "TODO"
+    },
+    "ex_mop_kzyg.ogg": {
+        "en": "need Sunbeam",
+        "fr": "TODO"
+    },
+    "ex_mop_kzzb.ogg": {
+        "en": "Crowd Control",
+        "fr": "TODO"
+    },
+    "ex_mop_ldsl.ogg": {
+        "en": "break chain now",
+        "fr": "TODO"
+    },
+    "ex_mop_left.ogg": {
+        "en": "Arc Left",
+        "fr": "TODO"
+    },
+    "ex_mop_lhtt.ogg": {
+        "en": "Totem",
+        "fr": "TODO"
+    },
+    "ex_mop_lkzq.ogg": {
+        "en": "leave purple ring",
+        "fr": "TODO"
+    },
+    "ex_mop_llj.ogg": {
+        "en": "Dread Thrash",
+        "fr": "TODO"
+    },
+    "ex_mop_lscz.ogg": {
+        "en": "Cobalt Overload",
+        "fr": "TODO"
+    },
+    "ex_mop_lssh.ogg": {
+        "en": "Cobalt Petrification",
+        "fr": "TODO"
+    },
+    "ex_mop_lumang.ogg": {
+        "en": "Recklessness",
+        "fr": "TODO"
+    },
+    "ex_mop_lvscz.ogg": {
+        "en": "Jade Overload",
+        "fr": "TODO"
+    },
+    "ex_mop_lvssh.ogg": {
+        "en": "Jade Petrification",
+        "fr": "TODO"
+    },
+    "ex_mop_lx.ogg": {
+        "en": "Jasper Chain, get close",
+        "fr": "TODO"
+    },
+    "ex_mop_lxkp.ogg": {
+        "en": "Heart of Fear on you",
+        "fr": "TODO"
+    },
+    "ex_mop_mbsh.ogg": {
+        "en": "Solid Stone on your target",
+        "fr": "TODO"
+    },
+    "ex_mop_mfdd.ogg": {
+        "en": "Arcane Velocity",
+        "fr": "TODO"
+    },
+    "ex_mop_mfxt.ogg": {
+        "en": "Arcane Phase",
+        "fr": "TODO"
+    },
+    "ex_mop_nbzh.ogg": {
+        "en": "Reshape Life on you",
+        "fr": "TODO"
+    },
+    "ex_mop_nwzb.ogg": {
+        "en": "empress coming",
+        "fr": "TODO"
+    },
+    "ex_mop_nyjd.ogg": {
+        "en": "Crush",
+        "fr": "TODO"
+    },
+    "ex_mop_nzlt.ogg": {
+        "en": "Reversal: Lightning Fists",
+        "fr": "TODO"
+    },
+    "ex_mop_qjbcx.ogg": {
+        "en": "Rage's down",
+        "fr": "TODO"
+    },
+    "ex_mop_qjbzb.ogg": {
+        "en": "Rage incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_qssd.ogg": {
+        "en": "dispel lightning",
+        "fr": "TODO"
+    },
+    "ex_mop_qszb.ogg": {
+        "en": "ready to dispel",
+        "fr": "TODO"
+    },
+    "ex_mop_qszl.ogg": {
+        "en": "dispel healing",
+        "fr": "TODO"
+    },
+    "ex_mop_qyhy.ogg": {
+        "en": "Draw Flame",
+        "fr": "TODO"
+    },
+    "ex_mop_right.ogg": {
+        "en": "Arc Right",
+        "fr": "TODO"
+    },
+    "ex_mop_slkd.ogg": {
+        "en": "attack boss",
+        "fr": "TODO"
+    },
+    "ex_mop_spzb.ogg": {
+        "en": "Waterspout",
+        "fr": "TODO"
+    },
+    "ex_mop_sqkd.ogg": {
+        "en": "attack Water globe",
+        "fr": "TODO"
+    },
+    "ex_mop_szcz.ogg": {
+        "en": "Bosses Activated",
+        "fr": "TODO"
+    },
+    "ex_mop_szkp.ogg": {
+        "en": "Sticky Resin on you",
+        "fr": "TODO"
+    },
+    "ex_mop_tenkj.ogg": {
+        "en": "Breath of Fear in ten",
+        "fr": "TODO"
+    },
+    "ex_mop_tqzb.ogg": {
+        "en": "Exhale",
+        "fr": "TODO"
+    },
+    "ex_mop_ttqt.ogg": {
+        "en": "titan Gas",
+        "fr": "TODO"
+    },
+    "ex_mop_wsks.ogg": {
+        "en": "Huddle in Terror started",
+        "fr": "TODO"
+    },
+    "ex_mop_wszb.ogg": {
+        "en": "Huddle in Terror incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_wwhd.ogg": {
+        "en": "Shield of Darkness incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_wwjh.ogg": {
+        "en": "Shadow king activated",
+        "fr": "TODO"
+    },
+    "ex_mop_wwsn.ogg": {
+        "en": "Voodoo Doll on you",
+        "fr": "TODO"
+    },
+    "ex_mop_wxdjzb.ogg": {
+        "en": "Unseen Strike incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_xcqcx.ogg": {
+        "en": "Reinforcements",
+        "fr": "TODO"
+    },
+    "ex_mop_xjwc.ogg": {
+        "en": "Amber Trap set",
+        "fr": "TODO"
+    },
+    "ex_mop_xxszb.ogg": {
+        "en": "Pungency incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_ybbz.ogg": {
+        "en": "Sonic Discharge",
+        "fr": "TODO"
+    },
+    "ex_mop_ybfd.ogg": {
+        "en": "take Annihilation damage",
+        "fr": "TODO"
+    },
+    "ex_mop_ybzb.ogg": {
+        "en": "Sonic Discharge incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_yldp.ogg": {
+        "en": "Siphoning Shield, get away",
+        "fr": "TODO"
+    },
+    "ex_mop_yldz.ogg": {
+        "en": "Epicenter, get away",
+        "fr": "TODO"
+    },
+    "ex_mop_ylhq.ogg": {
+        "en": "expels corruption, get away",
+        "fr": "TODO"
+    },
+    "ex_mop_ylxjzb.ogg": {
+        "en": "Implacable Strike incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_ymzb.ogg": {
+        "en": "submerge incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_ysjs.ogg": {
+        "en": "Hide ended",
+        "fr": "TODO"
+    },
+    "ex_mop_yszb.ogg": {
+        "en": "Hide",
+        "fr": "TODO"
+    },
+    "ex_mop_yyfh.ogg": {
+        "en": "Corrupted Dissonance Field",
+        "fr": "TODO"
+    },
+    "ex_mop_yzgd.ogg": {
+        "en": "Will Power low",
+        "fr": "TODO"
+    },
+    "ex_mop_yzgj.ogg": {
+        "en": "Overwhelming Assault",
+        "fr": "TODO"
+    },
+    "ex_mop_yzjkd.ogg": {
+        "en": "attack Pinning Arrow",
+        "fr": "TODO"
+    },
+    "ex_mop_yzyb.ogg": {
+        "en": "Right Attenuation",
+        "fr": "TODO"
+    },
+    "ex_mop_zbbyz.ogg": {
+        "en": "Combo Strike",
+        "fr": "TODO"
+    },
+    "ex_mop_zbbz.ogg": {
+        "en": "Annihilation incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_zbhx.ogg": {
+        "en": "Breath incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_zbpj.ogg": {
+        "en": "Cannon Barrage",
+        "fr": "TODO"
+    },
+    "ex_mop_zcxs.ogg": {
+        "en": "center platform fading",
+        "fr": "TODO"
+    },
+    "ex_mop_zhgg.ogg": {
+        "en": "Hate too high",
+        "fr": "TODO"
+    },
+    "ex_mop_zjbcx.ogg": {
+        "en": "Strength's down",
+        "fr": "TODO"
+    },
+    "ex_mop_zjbzb.ogg": {
+        "en": "Strength incoming",
+        "fr": "TODO"
+    },
+    "ex_mop_zlzb.ogg": {
+        "en": "Visions of Demise",
+        "fr": "TODO"
+    },
+    "ex_mop_zqkd.ogg": {
+        "en": "attack orb",
+        "fr": "TODO"
+    },
+    "ex_mop_zrxt.ogg": {
+        "en": "Earth Phase",
+        "fr": "TODO"
+    },
+    "ex_mop_zscz.ogg": {
+        "en": "Amethyst overload",
+        "fr": "TODO"
+    },
+    "ex_mop_zssh.ogg": {
+        "en": "Amethyst Petrification",
+        "fr": "TODO"
+    },
+    "ex_mop_zwhd.ogg": {
+        "en": "Impervious Shield",
+        "fr": "TODO"
+    },
+    "ex_mop_zwjh.ogg": {
+        "en": "Merciless King activated",
+        "fr": "TODO"
+    },
+    "ex_mop_zydb.ogg": {
+        "en": "Lightning Fists",
+        "fr": "TODO"
+    },
+    "ex_mop_zyg.ogg": {
+        "en": "Champion of the Light",
+        "fr": "TODO"
+    },
+    "ex_mop_zyhd.ogg": {
+        "en": "Shield of Darkness",
+        "fr": "TODO"
+    },
+    "ex_mop_zyjc.ogg": {
+        "en": "Goto Totem",
+        "fr": "TODO"
+    },
+    "ex_mop_zyjy.ogg": {
+        "en": "Volley",
+        "fr": "TODO"
+    },
+    "ex_mop_zzyb.ogg": {
+        "en": "Left Attenuation",
+        "fr": "TODO"
+    },
+    "ex_so_amqh.ogg": {
+        "en": "Dark Meditation",
+        "fr": "TODO"
+    },
+    "ex_so_aqgg.ogg": {
+        "en": "power high",
+        "fr": "TODO"
+    },
+    "ex_so_aqym.ogg": {
+        "en": "Overcome",
+        "fr": "TODO"
+    },
+    "ex_so_ays.ogg": {
+        "en": "Shadow Word incoming",
+        "fr": "TODO"
+    },
+    "ex_so_bh_1zu.ogg": {
+        "en": "First group get ready",
+        "fr": "TODO"
+    },
+    "ex_so_bh_2zu.ogg": {
+        "en": "Second group get ready",
+        "fr": "TODO"
+    },
+    "ex_so_bh_4cz.ogg": {
+        "en": "Fourth Overload coming",
+        "fr": "TODO"
+    },
+    "ex_so_bh_5cz.ogg": {
+        "en": "Fifth Overload coming",
+        "fr": "TODO"
+    },
+    "ex_so_bh_fskd.ogg": {
+        "en": "attack mage",
+        "fr": "TODO"
+    },
+    "ex_so_bh_lrkd.ogg": {
+        "en": "attack hunter",
+        "fr": "TODO"
+    },
+    "ex_so_bh_smkd.ogg": {
+        "en": "attack shaman",
+        "fr": "TODO"
+    },
+    "ex_so_bmkd.ogg": {
+        "en": "attack Frozen Solid",
+        "fr": "TODO"
+    },
+    "ex_so_bsh.ogg": {
+        "en": "Locust engaged",
+        "fr": "TODO"
+    },
+    "ex_so_bsjx.ogg": {
+        "en": "Mutate",
+        "fr": "TODO"
+    },
+    "ex_so_bsqh.ogg": {
+        "en": "Frost Pustules",
+        "fr": "TODO"
+    },
+    "ex_so_bzhh.ogg": {
+        "en": "ring of Fire explodes soon",
+        "fr": "TODO"
+    },
+    "ex_so_ccqh.ogg": {
+        "en": "Activated Electromagnet",
+        "fr": "TODO"
+    },
+    "ex_so_cdyj.ogg": {
+        "en": "pass the Mark",
+        "fr": "TODO"
+    },
+    "ex_so_ckkp.ogg": {
+        "en": "run, Assassin's Mark on you",
+        "fr": "TODO"
+    },
+    "ex_so_cqws.ogg": {
+        "en": "Swarm keeper engaged",
+        "fr": "TODO"
+    },
+    "ex_so_csch.ogg": {
+        "en": "Catalyst Orange",
+        "fr": "TODO"
+    },
+    "ex_so_csds.ogg": {
+        "en": "Toxic Orange",
+        "fr": "TODO"
+    },
+    "ex_so_czkd.ogg": {
+        "en": "Kill Hungry Kun chongs",
+        "fr": "TODO"
+    },
+    "ex_so_czz.ogg": {
+        "en": "Manipulator engaged",
+        "fr": "TODO"
+    },
+    "ex_so_dckd.ogg": {
+        "en": "Borer Drill",
+        "fr": "TODO"
+    },
+    "ex_so_dczd.ogg": {
+        "en": "Magnetic Crush",
+        "fr": "TODO"
+    },
+    "ex_so_dddc.ogg": {
+        "en": "Kill Magnet",
+        "fr": "TODO"
+    },
+    "ex_so_dddl.ogg": {
+        "en": "Kill Mine",
+        "fr": "TODO"
+    },
+    "ex_so_ddfd.ogg": {
+        "en": "Kill Missile",
+        "fr": "TODO"
+    },
+    "ex_so_ddjg.ogg": {
+        "en": "Kill Laser",
+        "fr": "TODO"
+    },
+    "ex_so_dj.ogg": {
+        "en": "Shield Bash",
+        "fr": "TODO"
+    },
+    "ex_so_dlcx.ogg": {
+        "en": "Crawler Mine",
+        "fr": "TODO"
+    },
+    "ex_so_dlqh.ogg": {
+        "en": "Activated Mine",
+        "fr": "TODO"
+    },
+    "ex_so_dlsd.ogg": {
+        "en": "Mine Fixate",
+        "fr": "TODO"
+    },
+    "ex_so_dskd.ogg": {
+        "en": "attack snake",
+        "fr": "TODO"
+    },
+    "ex_so_dun.ogg": {
+        "en": "dispel Earth Shield",
+        "fr": "TODO"
+    },
+    "ex_so_dwtt.ogg": {
+        "en": "Poisonmist Totem",
+        "fr": "TODO"
+    },
+    "ex_so_dxz.ogg": {
+        "en": "Poisoned Mind engaged",
+        "fr": "TODO"
+    },
+    "ex_so_dyqh.ogg": {
+        "en": "Acid Pustules",
+        "fr": "TODO"
+    },
+    "ex_so_dzqh.ogg": {
+        "en": "Mark of Anguish",
+        "fr": "TODO"
+    },
+    "ex_so_ey.ogg": {
+        "en": "Malice",
+        "fr": "TODO"
+    },
+    "ex_so_eydn.ogg": {
+        "en": "Malice on you",
+        "fr": "TODO"
+    },
+    "ex_so_fcdj.ogg": {
+        "en": "Vengeful Strikes",
+        "fr": "TODO"
+    },
+    "ex_so_fdqh.ogg": {
+        "en": "Activated Missile Turret",
+        "fr": "TODO"
+    },
+    "ex_so_fdyb.ogg": {
+        "en": "Prepare to share damage",
+        "fr": "TODO"
+    },
+    "ex_so_fdzb.ogg": {
+        "en": "Missile incoming",
+        "fr": "TODO"
+    },
+    "ex_so_fl.ogg": {
+        "en": "Split started",
+        "fr": "TODO"
+    },
+    "ex_so_fljs.ogg": {
+        "en": "Split ended",
+        "fr": "TODO"
+    },
+    "ex_so_fmjc.ogg": {
+        "en": "Shredder engaged",
+        "fr": "TODO"
+    },
+    "ex_so_fmjd.ogg": {
+        "en": "attack Shredder",
+        "fr": "TODO"
+    },
+    "ex_so_fscq.ogg": {
+        "en": "spread into the circles",
+        "fr": "TODO"
+    },
+    "ex_so_fyzb.ogg": {
+        "en": "Defensive Stance incoming",
+        "fr": "TODO"
+    },
+    "ex_so_fyzt.ogg": {
+        "en": "Defensive Stance",
+        "fr": "TODO"
+    },
+    "ex_so_gckd.ogg": {
+        "en": "attack Siege Engineer",
+        "fr": "TODO"
+    },
+    "ex_so_gczb.ogg": {
+        "en": "Siege Engineer incoming",
+        "fr": "TODO"
+    },
+    "ex_so_hhtt.ogg": {
+        "en": "Ashflare Totem",
+        "fr": "TODO"
+    },
+    "ex_so_hpkd.ogg": {
+        "en": "Attack Burial Urn",
+        "fr": "TODO"
+    },
+    "ex_so_hsbz.ogg": {
+        "en": "red explodes soon",
+        "fr": "TODO"
+    },
+    "ex_so_hsch.ogg": {
+        "en": "Catalyst Red",
+        "fr": "TODO"
+    },
+    "ex_so_hsdq.ogg": {
+        "en": "Toxin Yellow incoming",
+        "fr": "TODO"
+    },
+    "ex_so_hsds.ogg": {
+        "en": "Toxic Red",
+        "fr": "TODO"
+    },
+    "ex_so_huds.ogg": {
+        "en": "Toxic Yellow",
+        "fr": "TODO"
+    },
+    "ex_so_hupd.ogg": {
+        "en": "attack Amber",
+        "fr": "TODO"
+    },
+    "ex_so_hxkd.ogg": {
+        "en": "Whirling Corruption",
+        "fr": "TODO"
+    },
+    "ex_so_hxzb.ogg": {
+        "en": "Whirling Corruption incoming",
+        "fr": "TODO"
+    },
+    "ex_so_jgqh.ogg": {
+        "en": "Activated Laser Turret",
+        "fr": "TODO"
+    },
+    "ex_so_kbzt.ogg": {
+        "en": "Berserker Stance",
+        "fr": "TODO"
+    },
+    "ex_so_kjty.ogg": {
+        "en": "get in projection",
+        "fr": "TODO"
+    },
+    "ex_so_kqcs.ogg": {
+        "en": "goto conveyor belt",
+        "fr": "TODO"
+    },
+    "ex_so_lfz.ogg": {
+        "en": "Wind Reaver engaged",
+        "fr": "TODO"
+    },
+    "ex_so_lklx.ogg": {
+        "en": "break link",
+        "fr": "TODO"
+    },
+    "ex_so_llfw.ogg": {
+        "en": "Rune of Power",
+        "fr": "TODO"
+    },
+    "ex_so_lqcx.ogg": {
+        "en": "Wolf Rider engaged",
+        "fr": "TODO"
+    },
+    "ex_so_lqzb.ogg": {
+        "en": "Wolf Rider incoming",
+        "fr": "TODO"
+    },
+    "ex_so_lsbz.ogg": {
+        "en": "blue catalyst explodes soon",
+        "fr": "TODO"
+    },
+    "ex_so_lsch.ogg": {
+        "en": "Catalyst Blue",
+        "fr": "TODO"
+    },
+    "ex_so_lsds.ogg": {
+        "en": "Toxic Blue",
+        "fr": "TODO"
+    },
+    "ex_so_lvds.ogg": {
+        "en": "Toxic Green",
+        "fr": "TODO"
+    },
+    "ex_so_lvsch.ogg": {
+        "en": "Catalyst Green",
+        "fr": "TODO"
+    },
+    "ex_so_lxdn.ogg": {
+        "en": "link on you",
+        "fr": "TODO"
+    },
+    "ex_so_lyqh.ogg": {
+        "en": "Fire Pustules",
+        "fr": "TODO"
+    },
+    "ex_so_mcz.ogg": {
+        "en": "Lucid engaged",
+        "fr": "TODO"
+    },
+    "ex_so_mjkd.ogg": {
+        "en": "Titanic Smash",
+        "fr": "TODO"
+    },
+    "ex_so_mxcx.ogg": {
+        "en": "Anima Golem incoming",
+        "fr": "TODO"
+    },
+    "ex_so_mxkd.ogg": {
+        "en": "attack Anima Golem",
+        "fr": "TODO"
+    },
+    "ex_so_nbcm.ogg": {
+        "en": "Mesmerize on you",
+        "fr": "TODO"
+    },
+    "ex_so_nbmz.ogg": {
+        "en": "Aim on you",
+        "fr": "TODO"
+    },
+    "ex_so_nxz.ogg": {
+        "en": "Blood seeker engaged",
+        "fr": "TODO"
+    },
+    "ex_so_ptkf.ogg": {
+        "en": "Tower",
+        "fr": "TODO"
+    },
+    "ex_so_pz.ogg": {
+        "en": "Swelling Corruption",
+        "fr": "TODO"
+    },
+    "ex_so_qcgh.ogg": {
+        "en": "Devotion Aura",
+        "fr": "TODO"
+    },
+    "ex_so_qgz.ogg": {
+        "en": "Dissector engaged",
+        "fr": "TODO"
+    },
+    "ex_so_qgzb.ogg": {
+        "en": "Siege Mode incoming",
+        "fr": "TODO"
+    },
+    "ex_so_rnkd.ogg": {
+        "en": "attack slimes",
+        "fr": "TODO"
+    },
+    "ex_so_sctj.ogg": {
+        "en": "Death From Above",
+        "fr": "TODO"
+    },
+    "ex_so_sfzd.ogg": {
+        "en": "Skull Cracker",
+        "fr": "TODO"
+    },
+    "ex_so_sgcf.ogg": {
+        "en": "Fracture",
+        "fr": "TODO"
+    },
+    "ex_so_shbx.ogg": {
+        "en": "Crane Rush",
+        "fr": "TODO"
+    },
+    "ex_so_slkd.ogg": {
+        "en": "Tear Reality",
+        "fr": "TODO"
+    },
+    "ex_so_sxzb.ogg": {
+        "en": "Beam incoming",
+        "fr": "TODO"
+    },
+    "ex_so_tb.ogg": {
+        "en": "Mutate",
+        "fr": "TODO"
+    },
+    "ex_so_tdsd.ogg": {
+        "en": "attack Bombardier",
+        "fr": "TODO"
+    },
+    "ex_so_tentl.ogg": {
+        "en": "iron prison in 10",
+        "fr": "TODO"
+    },
+    "ex_so_tenwq.ogg": {
+        "en": "weapon in 10",
+        "fr": "TODO"
+    },
+    "ex_so_tjzb.ogg": {
+        "en": "Assault Mode incoming",
+        "fr": "TODO"
+    },
+    "ex_so_tqch.ogg": {
+        "en": "Iron Star destroyed",
+        "fr": "TODO"
+    },
+    "ex_so_tqzb.ogg": {
+        "en": "Iron Star incoming",
+        "fr": "TODO"
+    },
+    "ex_so_tscd.ogg": {
+        "en": "attack demolisher",
+        "fr": "TODO"
+    },
+    "ex_so_tqkd.ogg": {
+        "en": "Iron Star",
+        "fr": "TODO"
+    },
+    "ex_so_ttkd.ogg": {
+        "en": "attack totem",
+        "fr": "TODO"
+    },
+    "ex_so_ttzc.ogg": {
+        "en": "Gift of the Titans",
+        "fr": "TODO"
+    },
+    "ex_so_tzhp.ogg": {
+        "en": "Hurl Amber",
+        "fr": "TODO"
+    },
+    "ex_so_wltt.ogg": {
+        "en": "Foul stream Totem",
+        "fr": "TODO"
+    },
+    "ex_so_wmxd.ogg": {
+        "en": "五秒亵渎",
+        "fr": "TODO"
+    },
+    "ex_so_wmys.ogg": {
+        "en": "falling stone explodes in 5",
+        "fr": "TODO"
+    },
+    "ex_so_wsqh.ogg": {
+        "en": "Misery Sorrow and Gloom",
+        "fr": "TODO"
+    },
+    "ex_so_xbdn.ogg": {
+        "en": "Beacon of Hope on you",
+        "fr": "TODO"
+    },
+    "ex_so_zbhz.ogg": {
+        "en": "Call Bombardment",
+        "fr": "TODO"
+    },
+    "ex_so_xbzb.ogg": {
+        "en": "Beacon of Hope incoming",
+        "fr": "TODO"
+    },
+    "ex_so_xff.ogg": {
+        "en": "Ravager",
+        "fr": "TODO"
+    },
+    "ex_so_xft.ogg": {
+        "en": "Gusting Crane Kick",
+        "fr": "TODO"
+    },
+    "ex_so_xkkd.ogg": {
+        "en": "attack mind control",
+        "fr": "TODO"
+    },
+    "ex_so_xkzb.ogg": {
+        "en": "mind control incoming",
+        "fr": "TODO"
+    },
+    "ex_so_xttt.ogg": {
+        "en": "Rusted Iron Totem",
+        "fr": "TODO"
+    },
+    "ex_so_xw.ogg": {
+        "en": "Swirl",
+        "fr": "TODO"
+    },
+    "ex_so_xwzb.ogg": {
+        "en": "Swirl incoming",
+        "fr": "TODO"
+    },
+    "ex_so_xxhx.ogg": {
+        "en": "Fire beam",
+        "fr": "TODO"
+    },
+    "ex_so_xxls.ogg": {
+        "en": "Watch out green puddle",
+        "fr": "TODO"
+    },
+    "ex_so_xxsl.ogg": {
+        "en": "beware Foul steam",
+        "fr": "TODO"
+    },
+    "ex_so_ylcz.ogg": {
+        "en": "stay away from the bugs",
+        "fr": "TODO"
+    },
+    "ex_so_yllx.ogg": {
+        "en": "stay away from lines",
+        "fr": "TODO"
+    },
+    "ex_so_yhz.ogg": {
+        "en": "Arcing Smash",
+        "fr": "TODO"
+    },
+    "ex_so_ysch.ogg": {
+        "en": "Catalyst Yellow",
+        "fr": "TODO"
+    },
+    "ex_so_yszb.ogg": {
+        "en": "Breath incoming",
+        "fr": "TODO"
+    },
+    "ex_so_yszq.ogg": {
+        "en": "Ashen Wall",
+        "fr": "TODO"
+    },
+    "ex_so_yzkd.ogg": {
+        "en": "Heroic Shockwave",
+        "fr": "TODO"
+    },
+    "ex_so_zbcj.ogg": {
+        "en": "Corrosive Blast incoming",
+        "fr": "TODO"
+    },
+    "ex_so_zbjt.ogg": {
+        "en": "Shock Pulse incoming",
+        "fr": "TODO"
+    },
+    "ex_so_zbrn.ogg": {
+        "en": "slimes coming",
+        "fr": "TODO"
+    },
+    "ex_so_zbty.ogg": {
+        "en": "Projection incoming",
+        "fr": "TODO"
+    },
+    "ex_so_zdzt.ogg": {
+        "en": "Battle Stance",
+        "fr": "TODO"
+    },
+    "ex_so_zg.ogg": {
+        "en": "War Song",
+        "fr": "TODO"
+    },
+    "ex_so_zgzb.ogg": {
+        "en": "War Song incoming",
+        "fr": "TODO"
+    },
+    "ex_so_zhcq.ogg": {
+        "en": "Mantid Swarm",
+        "fr": "TODO"
+    },
+    "ex_so_zj.ogg": {
+        "en": "Gouge",
+        "fr": "TODO"
+    },
+    "ex_so_zmcx.ogg": {
+        "en": "Torment",
+        "fr": "TODO"
+    },
+    "ex_so_zqkd.ogg": {
+        "en": "attack Banner",
+        "fr": "TODO"
+    },
+    "ex_so_zsch.ogg": {
+        "en": "Catalyst Purple",
+        "fr": "TODO"
+    },
+    "ex_so_zsds.ogg": {
+        "en": "Toxic Purple",
+        "fr": "TODO"
+    },
+    "ex_so_zxzb.ogg": {
+        "en": "Calamity incoming",
+        "fr": "TODO"
+    },
+    "ex_so_zybd.ogg": {
+        "en": "Icy Blood",
+        "fr": "TODO"
+    },
+    "ex_so_zzz.ogg": {
+        "en": "Prime engaged",
+        "fr": "TODO"
+    },
+    "ex_tt_bfcx.ogg": {
+        "en": "bats out",
+        "fr": "TODO"
+    },
+    "ex_tt_bhtt.ogg": {
+        "en": "tiger",
+        "fr": "TODO"
+    },
+    "ex_tt_bhzb.ogg": {
+        "en": "tiger in twenty",
+        "fr": "TODO"
+    },
+    "ex_tt_bmcq.ogg": {
+        "en": "help Anima Ring",
+        "fr": "TODO"
+    },
+    "ex_tt_bmdx.ogg": {
+        "en": "help life drain",
+        "fr": "TODO"
+    },
+    "ex_tt_bmgb.ogg": {
+        "en": "Third door closed",
+        "fr": "TODO"
+    },
+    "ex_tt_bmkq.ogg": {
+        "en": "Third door open soon",
+        "fr": "TODO"
+    },
+    "ex_tt_bqxx.ogg": {
+        "en": "watch out Frozen Orb",
+        "fr": "TODO"
+    },
+    "ex_tt_bsjs.ogg": {
+        "en": "Fully Mutated Faded",
+        "fr": "TODO"
+    },
+    "ex_tt_bsxt.ogg": {
+        "en": "Frozen Phase",
+        "fr": "TODO"
+    },
+    "ex_tt_bwsm.ogg": {
+        "en": "Unstable anima",
+        "fr": "TODO"
+    },
+    "ex_tt_bwxn.ogg": {
+        "en": "Unstable anima",
+        "fr": "TODO"
+    },
+    "ex_tt_byt.ogg": {
+        "en": "Volatile Pathogen",
+        "fr": "TODO"
+    },
+    "ex_tt_bzjd.ogg": {
+        "en": "Day Phase started",
+        "fr": "TODO"
+    },
+    "ex_tt_cfkd.ogg": {
+        "en": "Charging",
+        "fr": "TODO"
+    },
+    "ex_tt_cjcn.ogg": {
+        "en": "Super charge started",
+        "fr": "TODO"
+    },
+    "ex_tt_cxzb.ogg": {
+        "en": "Tidal Force incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_cxzl.ogg": {
+        "en": "Tidal Force",
+        "fr": "TODO"
+    },
+    "ex_tt_czjh.ogg": {
+        "en": "Overcharged. stack.",
+        "fr": "TODO"
+    },
+    "ex_tt_czsh.ogg": {
+        "en": "South destroyed",
+        "fr": "TODO"
+    },
+    "ex_tt_ddfh.ogg": {
+        "en": "eggs hatched",
+        "fr": "TODO"
+    },
+    "ex_tt_dfzj.ogg": {
+        "en": "Interrupting Jolt",
+        "fr": "TODO"
+    },
+    "ex_tt_dlzb.ogg": {
+        "en": "Ionization incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_dlzh.ogg": {
+        "en": "Ionization",
+        "fr": "TODO"
+    },
+    "ex_tt_dmgb.ogg": {
+        "en": "Second door closed",
+        "fr": "TODO"
+    },
+    "ex_tt_dmkq.ogg": {
+        "en": "Second door open soon",
+        "fr": "TODO"
+    },
+    "ex_tt_drn.ogg": {
+        "en": "big slime out",
+        "fr": "TODO"
+    },
+    "ex_tt_echx.ogg": {
+        "en": "second Siphon Anima coming",
+        "fr": "TODO"
+    },
+    "ex_tt_esnh.ogg": {
+        "en": "Dire Call in twenty",
+        "fr": "TODO"
+    },
+    "ex_tt_fbjs.ogg": {
+        "en": "Lightning Storm ended",
+        "fr": "TODO"
+    },
+    "ex_tt_fscq.ogg": {
+        "en": "stand into the circles",
+        "fr": "TODO"
+    },
+    "ex_tt_hajs.ogg": {
+        "en": "Dark Parasite",
+        "fr": "TODO"
+    },
+    "ex_tt_hbcx.ogg": {
+        "en": "Ice Comet",
+        "fr": "TODO"
+    },
+    "ex_tt_hgsd.ogg": {
+        "en": "Yellow beam on you",
+        "fr": "TODO"
+    },
+    "ex_tt_hgzb.ogg": {
+        "en": "Red beam on you",
+        "fr": "TODO"
+    },
+    "ex_tt_hhjd.ogg": {
+        "en": "Dusk Phase started",
+        "fr": "TODO"
+    },
+    "ex_tt_hhttzb.ogg": {
+        "en": "crane in twenty",
+        "fr": "TODO"
+    },
+    "ex_tt_hhzb.ogg": {
+        "en": "Dusk phase coming",
+        "fr": "TODO"
+    },
+    "ex_tt_hldn.ogg": {
+        "en": "Rampage",
+        "fr": "TODO"
+    },
+    "ex_tt_hmzb.ogg": {
+        "en": "Overcharged soon",
+        "fr": "TODO"
+    },
+    "ex_tt_hqxx.ogg": {
+        "en": "life drain in red",
+        "fr": "TODO"
+    },
+    "ex_tt_hsfd.ogg": {
+        "en": "go to red",
+        "fr": "TODO"
+    },
+    "ex_tt_hszb.ogg": {
+        "en": "Frost bite incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_hufd.ogg": {
+        "en": "go to yellow",
+        "fr": "TODO"
+    },
+    "ex_tt_hyxt.ogg": {
+        "en": "Fire phase",
+        "fr": "TODO"
+    },
+    "ex_tt_hzly.ogg": {
+        "en": "Inferno incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_jdsh.ogg": {
+        "en": "North destroyed",
+        "fr": "TODO"
+    },
+    "ex_tt_jhfd.ogg": {
+        "en": "Stack",
+        "fr": "TODO"
+    },
+    "ex_tt_jhzb.ogg": {
+        "en": "Matter Swap incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_jlz.ogg": {
+        "en": "Fusion Slash",
+        "fr": "TODO"
+    },
+    "ex_tt_jtzy.ogg": {
+        "en": "Helm of Command",
+        "fr": "TODO"
+    },
+    "ex_tt_kjfd.ogg": {
+        "en": "Caustic Gas, get close",
+        "fr": "TODO"
+    },
+    "ex_tt_kkbh.ogg": {
+        "en": "turn on white tiger",
+        "fr": "TODO"
+    },
+    "ex_tt_kkdf.ogg": {
+        "en": "",
+        "fr": "TODO"
+    },
+    "ex_tt_ksbz.ogg": {
+        "en": "Orb of Control",
+        "fr": "TODO"
+    },
+    "ex_tt_lgcx.ogg": {
+        "en": "blue fog revealed",
+        "fr": "TODO"
+    },
+    "ex_tt_lgzb.ogg": {
+        "en": "blue beam on you",
+        "fr": "TODO"
+    },
+    "ex_tt_lhsd.ogg": {
+        "en": "Dire Fixation",
+        "fr": "TODO"
+    },
+    "ex_tt_ljr.ogg": {
+        "en": "Kazra jin Possessed",
+        "fr": "TODO"
+    },
+    "ex_tt_ljrk.ogg": {
+        "en": "attack Kazra jin",
+        "fr": "TODO"
+    },
+    "ex_tt_lqxx.ogg": {
+        "en": "life drain in blue",
+        "fr": "TODO"
+    },
+    "ex_tt_lrzl.ogg": {
+        "en": "Tears Of Sun",
+        "fr": "TODO"
+    },
+    "ex_tt_lsfd.ogg": {
+        "en": "go to blue",
+        "fr": "TODO"
+    },
+    "ex_tt_lszb.ogg": {
+        "en": "Quicksand incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_lttz.ogg": {
+        "en": "Thundering Throw",
+        "fr": "TODO"
+    },
+    "ex_tt_mobA.ogg": {
+        "en": "firstwave adds ready",
+        "fr": "TODO"
+    },
+    "ex_tt_mq.ogg": {
+        "en": "Dead Zone",
+        "fr": "TODO"
+    },
+    "ex_tt_mys.ogg": {
+        "en": "Beast of Nightmares",
+        "fr": "TODO"
+    },
+    "ex_tt_nbcf.ogg": {
+        "en": "Charging on you",
+        "fr": "TODO"
+    },
+    "ex_tt_nbjs.ogg": {
+        "en": "dark Parasite on you",
+        "fr": "TODO"
+    },
+    "ex_tt_njs.ogg": {
+        "en": "High Priestess Possessed",
+        "fr": "TODO"
+    },
+    "ex_tt_njsk.ogg": {
+        "en": "attack High Priestess",
+        "fr": "TODO"
+    },
+    "ex_tt_qfzb.ogg": {
+        "en": "Violent Gale Winds incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_qlzb.ogg": {
+        "en": "serpent in twenty",
+        "fr": "TODO"
+    },
+    "ex_tt_rycz.ogg": {
+        "en": "Molten Overload",
+        "fr": "TODO"
+    },
+    "ex_tt_scfb.ogg": {
+        "en": "Sandstorm",
+        "fr": "TODO"
+    },
+    "ex_tt_schx.ogg": {
+        "en": "fourth Siphon Anima incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_scsj.ogg": {
+        "en": "DoubleSwipe",
+        "fr": "TODO"
+    },
+    "ex_tt_sdb.ogg": {
+        "en": "Lightning Whip",
+        "fr": "TODO"
+    },
+    "ex_tt_sddn.ogg": {
+        "en": "Focused Lightning on you",
+        "fr": "TODO"
+    },
+    "ex_tt_sdfbzb.ogg": {
+        "en": "Lightning Storm incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_sdls.ogg": {
+        "en": "Diffusion Chain incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_sdtt.ogg": {
+        "en": "Lightning Nova Totem",
+        "fr": "TODO"
+    },
+    "ex_tt_sdxt.ogg": {
+        "en": "Lightning phase",
+        "fr": "TODO"
+    },
+    "ex_tt_sfxg.ogg": {
+        "en": "ready for upper nest",
+        "fr": "TODO"
+    },
+    "ex_tt_shw.ogg": {
+        "en": "Frost King Possessed",
+        "fr": "TODO"
+    },
+    "ex_tt_shwk.ogg": {
+        "en": "attack Frost King",
+        "fr": "TODO"
+    },
+    "ex_tt_sjsl.ogg": {
+        "en": "get Crystal",
+        "fr": "TODO"
+    },
+    "ex_tt_sljs.ogg": {
+        "en": "Metabolic Boost",
+        "fr": "TODO"
+    },
+    "ex_tt_smdn.ogg": {
+        "en": "Unstable Vita on you",
+        "fr": "TODO"
+    },
+    "ex_tt_smgb.ogg": {
+        "en": "First door closed",
+        "fr": "TODO"
+    },
+    "ex_tt_smkq.ogg": {
+        "en": "First door open soon",
+        "fr": "TODO"
+    },
+    "ex_tt_smxq.ogg": {
+        "en": "life drain",
+        "fr": "TODO"
+    },
+    "ex_tt_sssh.ogg": {
+        "en": "East destroyed",
+        "fr": "TODO"
+    },
+    "ex_tt_sxz.ogg": {
+        "en": "Sul Possessed",
+        "fr": "TODO"
+    },
+    "ex_tt_sxzk.ogg": {
+        "en": "attack Sul",
+        "fr": "TODO"
+    },
+    "ex_tt_syg.ogg": {
+        "en": "beam phase coming",
+        "fr": "TODO"
+    },
+    "ex_tt_tbwc.ogg": {
+        "en": "Fully Mutated",
+        "fr": "TODO"
+    },
+    "ex_tt_tenhr.ogg": {
+        "en": "",
+        "fr": "TODO"
+    },
+    "ex_tt_tenwj.ogg": {
+        "en": "maze phase coming",
+        "fr": "TODO"
+    },
+    "ex_tt_tenzj.ogg": {
+        "en": "Interrupting Jolt in ten",
+        "fr": "TODO"
+    },
+    "ex_tt_ttsh.ogg": {
+        "en": "West destroyed",
+        "fr": "TODO"
+    },
+    "ex_tt_twjs.ogg": {
+        "en": "Frost bite end in three",
+        "fr": "TODO"
+    },
+    "ex_tt_wmdq.ogg": {
+        "en": "Ball Lightning in five",
+        "fr": "TODO"
+    },
+    "ex_tt_wmhn.ogg": {
+        "en": "Dire Call in five",
+        "fr": "TODO"
+    },
+    "ex_tt_wmlj.ogg": {
+        "en": "Thunderstruck in five",
+        "fr": "TODO"
+    },
+    "ex_tt_wsyc.ogg": {
+        "en": "Feed Young",
+        "fr": "TODO"
+    },
+    "ex_tt_wzjh.ogg": {
+        "en": "Matter Swap",
+        "fr": "TODO"
+    },
+    "ex_tt_xfxg.ogg": {
+        "en": "ready for lower nest",
+        "fr": "TODO"
+    },
+    "ex_tt_xgkd.ogg": {
+        "en": "kill adds",
+        "fr": "TODO"
+    },
+    "ex_tt_xj.ogg": {
+        "en": "trap, get out",
+        "fr": "TODO"
+    },
+    "ex_tt_xjql.ogg": {
+        "en": "Down Draft",
+        "fr": "TODO"
+    },
+    "ex_tt_xjzb.ogg": {
+        "en": "Down Draft in five",
+        "fr": "TODO"
+    },
+    "ex_tt_xmkq.ogg": {
+        "en": "Fourth door open soon",
+        "fr": "TODO"
+    },
+    "ex_tt_xndn.ogg": {
+        "en": "Unstable Anima on you",
+        "fr": "TODO"
+    },
+    "ex_tt_xntt.ogg": {
+        "en": "ox",
+        "fr": "TODO"
+    },
+    "ex_tt_xnzb.ogg": {
+        "en": "ox in 20",
+        "fr": "TODO"
+    },
+    "ex_tt_xwg.ogg": {
+        "en": "small turtle",
+        "fr": "TODO"
+    },
+    "ex_tt_xxdn.ogg": {
+        "en": "life drain on you",
+        "fr": "TODO"
+    },
+    "ex_tt_xxns.ogg": {
+        "en": "Lingering Gaze",
+        "fr": "TODO"
+    },
+    "ex_tt_xxsy.ogg": {
+        "en": "Snapping Bite",
+        "fr": "TODO"
+    },
+    "ex_tt_xzzb.ogg": {
+        "en": "Cosmic Barrage incoming",
+        "fr": "TODO"
+    },
+    "ex_tt_yjtt.ogg": {
+        "en": "Serpent",
+        "fr": "TODO"
+    },
+    "ex_tt_yllj.ogg": {
+        "en": "getaway from Thunderstruck",
+        "fr": "TODO"
+    },
+    "ex_tt_ylsc.ogg": {
+        "en": "Dino's down",
+        "fr": "TODO"
+    },
+    "ex_tt_ylsd.ogg": {
+        "en": "Attack Dino",
+        "fr": "TODO"
+    },
+    "ex_tt_yqxx.ogg": {
+        "en": "life drain in yellow",
+        "fr": "TODO"
+    },
+    "ex_tt_zbdq.ogg": {
+        "en": "Materials of Creation",
+        "fr": "TODO"
+    },
+    "ex_tt_zbws.ogg": {
+        "en": "Feed Young soon",
+        "fr": "TODO"
+    },
+    "ex_tt_zrkj.ogg": {
+        "en": "Stack on others",
+        "fr": "TODO"
+    },
+    "ex_tt_zs.ogg": {
+        "en": "Decapitate, Run!",
+        "fr": "TODO"
+    },
+    "ex_tt_zscz.ogg": {
+        "en": "War God",
+        "fr": "TODO"
+    },
+    "ex_tt_zyfs.ogg": {
+        "en": "Watch out Effusion",
+        "fr": "TODO"
+    },
+    "ex_tt_zyjt.ogg": {
+        "en": "Watch arrow",
+        "fr": "TODO"
+    },
+    "ex_tt_zyls.ogg": {
+        "en": "Watch your step",
+        "fr": "TODO"
+    },
+    "ex_tt_zynx.ogg": {
+        "en": "Pustule Eruption",
+        "fr": "TODO"
+    },
+    "failed.ogg": {
+        "en": "failed",
+        "fr": "TODO"
+    },
+    "findmc.ogg": {
+        "en": "mind control",
+        "fr": "TODO"
+    },
+    "firecircle.ogg": {
+        "en": "fire circle",
+        "fr": "TODO"
+    },
+    "firerun.ogg": {
+        "en": "Fire on you, Run",
+        "fr": "TODO"
+    },
+    "firewall.ogg": {
+        "en": "firewall",
+        "fr": "TODO"
+    },
+    "gather.ogg": {
+        "en": "stack",
+        "fr": "TODO"
+    },
+    "getboned.ogg": {
+        "en": "get bone",
+        "fr": "TODO"
+    },
+    "ghostsoon.ogg": {
+        "en": "spirit incoming",
+        "fr": "TODO"
+    },
+    "healall.ogg": {
+        "en": "heal team",
+        "fr": "TODO"
+    },
+    "helpdispel.ogg": {
+        "en": "dispel",
+        "fr": "TODO"
+    },
+    "helpkick.ogg": {
+        "en": "interrupt",
+        "fr": "TODO"
+    },
+    "helpme.ogg": {
+        "en": "Help",
+        "fr": "TODO"
+    },
+    "helpme2.ogg": {
+        "en": "Help me",
+        "fr": "TODO"
+    },
+    "holdit.ogg": {
+        "en": "defensive",
+        "fr": "TODO"
+    },
+    "interruptsoon.ogg": {
+        "en": "ready to interrupt",
+        "fr": "TODO"
+    },
+    "justrun.ogg": {
+        "en": "run",
+        "fr": "TODO"
+    },
+    "keepjump.ogg": {
+        "en": "keep jumping",
+        "fr": "TODO"
+    },
+    "keepmove.ogg": {
+        "en": "keep moving",
+        "fr": "TODO"
+    },
+    "kickcast.ogg": {
+        "en": "interrupt",
+        "fr": "TODO"
+    },
+    "killbigmob.ogg": {
+        "en": "Kill big add",
+        "fr": "TODO"
+    },
+    "killmine.ogg": {
+        "en": "attack Crawler Mine",
+        "fr": "TODO"
+    },
+    "killmob.ogg": {
+        "en": "kill adds",
+        "fr": "TODO"
+    },
+    "killspirit.ogg": {
+        "en": "attack spirit",
+        "fr": "TODO"
+    },
+    "laserrun.ogg": {
+        "en": "laser on you, run",
+        "fr": "TODO"
+    },
+    "leavecenter.ogg": {
+        "en": "leave center",
+        "fr": "TODO"
+    },
+    "lightstorm.ogg": {
+        "en": "Lightning Storm",
+        "fr": "TODO"
+    },
+    "linesoon.ogg": {
+        "en": "link incoming",
+        "fr": "TODO"
+    },
+    "mobenough.ogg": {
+        "en": "energy full. stay away from adds.",
+        "fr": "TODO"
+    },
+    "mobkill.ogg": {
+        "en": "kill adds",
+        "fr": "TODO"
+    },
+    "mobsoon.ogg": {
+        "en": "adds coming",
+        "fr": "TODO"
+    },
+    "moveleft.ogg": {
+        "en": "move left",
+        "fr": "TODO"
+    },
+    "moveright.ogg": {
+        "en": "move right",
+        "fr": "TODO"
+    },
+    "movesoon.ogg": {
+        "en": "get moving",
+        "fr": "TODO"
+    },
+    "orbrun.ogg": {
+        "en": "orb. run.",
+        "fr": "TODO"
+    },
+    "otherin.ogg": {
+        "en": "player in",
+        "fr": "TODO"
+    },
+    "otherout.ogg": {
+        "en": "player out",
+        "fr": "TODO"
+    },
+    "phasechange.ogg": {
+        "en": "phase change",
+        "fr": "TODO"
+    },
+    "pthree.ogg": {
+        "en": "phase three",
+        "fr": "TODO"
+    },
+    "ptwo.ogg": {
+        "en": "phase two",
+        "fr": "TODO"
+    },
+    "range5.ogg": {
+        "en": "range five",
+        "fr": "TODO"
+    },
+    "readyrescue.ogg": {
+        "en": "Prepare rescue",
+        "fr": "TODO"
+    },
+    "runaway.ogg": {
+        "en": "run away",
+        "fr": "TODO"
+    },
+    "runin.ogg": {
+        "en": "run in",
+        "fr": "TODO"
+    },
+    "runout.ogg": {
+        "en": "run out",
+        "fr": "TODO"
+    },
+    "safenow.ogg": {
+        "en": "safe now",
+        "fr": "TODO"
+    },
+    "scatter.ogg": {
+        "en": "spread",
+        "fr": "TODO"
+    },
+    "scattersoon.ogg": {
+        "en": "spread soon",
+        "fr": "TODO"
+    },
+    "shadowrun.ogg": {
+        "en": "Shadow on you",
+        "fr": "TODO"
+    },
+    "shieldover.ogg": {
+        "en": "shield over",
+        "fr": "TODO"
+    },
+    "shockwave.ogg": {
+        "en": "shock wave",
+        "fr": "TODO"
+    },
+    "spear.ogg": {
+        "en": "spear",
+        "fr": "TODO"
+    },
+    "specialsoon.ogg": {
+        "en": "special coming",
+        "fr": "TODO"
+    },
+    "speedup.ogg": {
+        "en": "speed up",
+        "fr": "TODO"
+    },
+    "stepring.ogg": {
+        "en": "step into the circles",
+        "fr": "TODO"
+    },
+    "stilldanger.ogg": {
+        "en": "danger danger",
+        "fr": "TODO"
+    },
+    "stompsoon.ogg": {
+        "en": "quake soon",
+        "fr": "TODO"
+    },
+    "stompstart.ogg": {
+        "en": "quake start",
+        "fr": "TODO"
+    },
+    "stopatk.ogg": {
+        "en": "stop attacking",
+        "fr": "TODO"
+    },
+    "stopattack.ogg": {
+        "en": "stop attacking",
+        "fr": "TODO"
+    },
+    "stopcast.ogg": {
+        "en": "stop casting",
+        "fr": "TODO"
+    },
+    "stopmove.ogg": {
+        "en": "stop moving",
+        "fr": "TODO"
+    },
+    "stunsoon.ogg": {
+        "en": "stun incoming",
+        "fr": "TODO"
+    },
+    "sunderhigh.ogg": {
+        "en": "sunder high",
+        "fr": "TODO"
+    },
+    "tankheal.ogg": {
+        "en": "heal tank",
+        "fr": "TODO"
+    },
+    "targetchange.ogg": {
+        "en": "target change",
+        "fr": "TODO"
+    },
+    "targetyou.ogg": {
+        "en": "target you",
+        "fr": "TODO"
+    },
+    "tauntboss.ogg": {
+        "en": "taunt boss",
+        "fr": "TODO"
+    },
+    "telesoon.ogg": {
+        "en": "teleport incoming",
+        "fr": "TODO"
+    },
+    "thanks.ogg": {
+        "en": "Thanks",
+        "fr": "TODO"
+    },
+    "trannow.ogg": {
+        "en": "Tranquilizing Shot now",
+        "fr": "TODO"
+    },
+    "transplague.ogg": {
+        "en": "Transfer Soul",
+        "fr": "TODO"
+    },
+    "turnaway.ogg": {
+        "en": "face away",
+        "fr": "TODO"
+    },
+    "uu.ogg": {
+        "en": "yours",
+        "fr": "TODO"
+    },
+    "watchimpale.ogg": {
+        "en": "impale",
+        "fr": "TODO"
+    },
+    "watchstep.ogg": {
+        "en": "watch your step",
+        "fr": "TODO"
+    },
+    "watchwave.ogg": {
+        "en": "watch wave",
+        "fr": "TODO"
+    },
+    "wwsoon.ogg": {
+        "en": "Rushing Winds coming",
+        "fr": "TODO"
+    }
+}
