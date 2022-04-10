@@ -4,14 +4,31 @@ from pathlib import Path
 import tempfile
 import googletrans
 
-def convert_text_to_ogg(text, code_language, export_file):
+#Local accent | Language code (lang) | Top-level domain (tld)
+#English (Australia)|en|com.au|
+#English (United Kingdom)|en|co.uk|
+#English (United States)|en|com (default)
+#English (Canada)|en|ca
+#English (India)|en|co.in
+#English (Ireland)|en|ie
+#English (South Africa)|en|co.za
+#French (Canada)|fr|ca
+#French (France)|fr|fr
+#Mandarin (China Mainland)|zh-CN|any
+#Mandarin (Taiwan)|zh-TW|any
+#Portuguese (Brazil)|pt|com.br
+#Portuguese (Portugal)|pt|pt
+#Spanish (Mexico)|es|com.mx
+#Spanish (Spain)|es|es
+#Spanish (United States)|es|com (default)
+def convert_text_to_ogg_with_gtts(text, code_language, domain, export_file):
 
     # Create a tempory file
     temp = tempfile.NamedTemporaryFile(delete=False)
 
     # Make request to google to get synthesis
-    tts = gtts.gTTS(text, lang=code_language)
-
+    tts = gtts.gTTS(text, lang=code_language, tld=domain)
+    
     # Save the audio file
     tts.save(temp.name)
     
@@ -22,7 +39,7 @@ def convert_text_to_ogg(text, code_language, export_file):
     # Remove the temp file
     temp.close()
 
-def get_translated_text(txt,lang_src,lang_dest):
+def get_translated_text(txt, lang_src, lang_dest):
     translator = googletrans.Translator()
     result="Failed"
     try:

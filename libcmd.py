@@ -95,7 +95,7 @@ def translate(dico_in_path, langsrc, langto, dico_out_path, force):
     else:
         print(f"Process aborded, langs '{langsrc}' or '{langto}' does not exist.")
 
-def generate_ogg_files(dico, lang, outputdir):
+def generate_ogg_files_with_gtts(dico, lang, domain, outputdir):
     trans = libtranslations.Translations()
     trans.load(dico)
     
@@ -105,9 +105,9 @@ def generate_ogg_files(dico, lang, outputdir):
         export_file.parent.mkdir(parents=True, exist_ok=True)
         if export_file.exists():
             os.remove(export_file)
-        libtools.convert_text_to_ogg(text, lang, export_file)
+        libtools.convert_text_to_ogg_with_gtts(text, lang, domain, export_file)
 
-def generate_ogg_file(dico, lang, key, outputdir):
+def generate_ogg_file_with_gtts(dico, lang, domain, key, outputdir):
     trans = libtranslations.Translations()
     trans.load(dico)
     
@@ -116,4 +116,4 @@ def generate_ogg_file(dico, lang, key, outputdir):
     export_file.parent.mkdir(parents=True, exist_ok=True)
     if export_file.exists():
         os.remove(export_file)
-    libtools.convert_text_to_ogg(text, lang, export_file)
+    libtools.convert_text_to_ogg_with_gtts(text, lang, domain, export_file)
