@@ -65,7 +65,7 @@ class Dictionary:
 
     
     def add_or_update_translation(self, filepath, text=DUMMY_VALUE, force=False):
-        if type(filepath) == type(Path):
+        if isinstance(filepath,Path):
             key = str(filepath.as_posix())
         else:
             key = filepath
