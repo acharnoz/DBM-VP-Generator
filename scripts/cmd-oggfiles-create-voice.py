@@ -16,4 +16,4 @@ parser.add_argument("--config", "-c", type=Path, help="Path to a specific audio 
 # Parse arguments of the command line        
 args = parser.parse_args()
 
-audiofilestools.create_voicepack(args.text, args.engine, args.config, args.output)
+audiofilestools.create_voice(args.text, args.engine, args.config, args.output)
