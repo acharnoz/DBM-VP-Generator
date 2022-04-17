@@ -1,14 +1,13 @@
 from pathlib import Path
 import argparse
 
-import libcmd
+from vpgenerator import dictionarytools
 
-import argparse
-parser = argparse.ArgumentParser()
+
+parser = argparse.ArgumentParser(description="Script to compare two dictionaries and print result.")
 parser.add_argument("dicoA", type=Path, help="Path to dictionary A")
 parser.add_argument("dicoB", type=Path, help="Path to dictionary B")
 
-
 args = parser.parse_args()
 
-libcmd.compare_dicos(args.dicoA, args.dicoB)
+dictionarytools.compare_dicos(args.dicoA, args.dicoB)

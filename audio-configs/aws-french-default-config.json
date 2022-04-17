@@ -1,0 +1,10 @@
+{
+    "name": "AWS French Config",
+    "description": "The default french config for AWS",
+    "audiogain": 0,
+    "audiospeed": 100,
+    "aiengine": "AWS",
+    "awsvoice": "Lea",
+    "awsaccesskeyid": "XXXX Set your key id here",
+    "awssecretkey": "XXXX Set your secret key here"
+}

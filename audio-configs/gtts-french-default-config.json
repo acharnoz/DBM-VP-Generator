@@ -1,0 +1,9 @@
+{
+    "name": "GTTS French Config",
+    "description": "The default french config for Gtts",
+    "audiogain": 0,
+    "audiospeed": 100,
+    "aiengine": "GTTS",
+    "gttslang": "fr",
+    "gttsdomain": "com"
+}
