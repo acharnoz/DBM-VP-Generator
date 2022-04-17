@@ -1,20 +1,7 @@
 # Ignore the node_modules directory
-node_modules/
 __pycache__/
-ogg-files-output/
-stuff/
+scripts/vpgenerator/__pycache__
 
-# Ignore Logs
-logs
-*.log
-
-# Ignore the build directory
-/dist
-
-# The file containing environment variables 
-.env
-
-# Ignore IDE specific files
-.idea/
-.vscode/
-*.sw*
+# personal data
+test/
+my-audio-configs/
