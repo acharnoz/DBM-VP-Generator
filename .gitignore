@@ -1,6 +1,7 @@
 # Ignore the node_modules directory
 __pycache__/
 scripts/vpgenerator/__pycache__
+scripts/gamedata/__pycache__
 
 # personal data
 test/
