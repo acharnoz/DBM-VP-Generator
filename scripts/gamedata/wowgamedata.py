@@ -151,44 +151,4 @@ class WowGameData:
         jencounter = self.create_journal_encounter(jencounter_id)
         self.journal_encounters[str(jencounter.id)]=jencounter    
 
-
-def explore(journal_expansion_ids, lang:str, dbdir:Path):
-
-    wgd = WowGameData()
-    wgd.lang = lang
-
-    # Load if file db exist
-    file_db_path = wgd.get_db_file_path(dbdir)
-    if file_db_path.exists():
-        print(f"File {file_db_path} loading...")
-        wgd.load(dbdir)
-        print(f"File loaded.")
-
-    # Explore
-    print(f"Game data exploring...")
-    wgd.configure_api()
-    wgd.explore_expansions(journal_expansion_ids)
-    print(f"Game data explored.")
-    
-    # Save result
-    print(f"File {file_db_path} saving...")
-    wgd.save(dbdir)
-    print(f"File saved.")
-
-
-def print_random_encounter(lang:str, dbdir:Path):
-    
-    wgd = WowGameData()
-    wgd.lang = lang
-
-    # Load if file db exist
-    file_db_path = wgd.get_db_file_path(dbdir)
-    if file_db_path.exists():
-        print(f"File {file_db_path} loading...")
-        wgd.load(dbdir)
-        print(f"File loaded.")
-
-    # Select an encounter
-    rand_key = random.choice(list(wgd.journal_encounters.keys()))
-    print(wgd.journal_encounters[rand_key].to_string())
     
