@@ -82,6 +82,8 @@
         "crusher.ogg": "broyeur",
         "defensive.ogg": "Défensive",
         "demolisher.ogg": "démolisseur",
+        "di.ogg": "DUMMY",
+        "didi.ogg": "DUMMY",
         "dispelboss.ogg": "Dissipez le boss",
         "dispelnow.ogg": "dissipez",
         "dontmove.ogg": "ne bougez pas",
@@ -341,11 +343,11 @@
         "Thogar/E3.ogg": "Déforesteur, voie trois",
         "Thogar/E4.ogg": "Déforesteur, voie quatre",
         "Thogar/F.ogg": "trois voie aléatoires",
-        "chainboss.ogg": "Enchaînez les boss",
-        "movetopillar.ogg": "Allez au pilier",
-        "negative.ogg": "Négatif",
-        "polarityshift.ogg": "Changement de polarité",
-        "positive.ogg": "Positif",
-        "pushbackincoming.ogg": "Repoussement imminent"
+        "chainboss.ogg": "DUMMY",
+        "movetopillar.ogg": "DUMMY",
+        "negative.ogg": "DUMMY",
+        "polarityshift.ogg": "DUMMY",
+        "positive.ogg": "DUMMY",
+        "pushbackincoming.ogg": "DUMMY"
     }
 }

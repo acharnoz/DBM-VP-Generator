@@ -34,8 +34,10 @@ These scripts are provided by Milho, Dalaran EU Realm.
 * Install google translate engine 'pip install googletrans'
 * Install pydub (manipulate audio with an simple and easy high level interface)
   * Download the windows release build of libdav on your computer (https://libav.org/download/ or http://builds.libav.org/windows/release-lgpl/)
-  * Extract libdav and add the path 'XXX\libav\usr\bin' in your PATH (e.g. on powershell $Env:PATH += ";C:\XXXXX)
+  * Extract libdav and add the path 'XXX\libav\usr\bin' in your PATH (e.g. on powershell $Env:PATH += ";C:\XXXXX")
   * pip install pydub
+  * $Env:PATH += ";G:\Dev\ffmpeg\bin"
+  * $Env:PATH += ";G:\Dev\ffmpeg\bin;G:\Dev\bin\libav\usr\bin"
 
 ### Mac
 
@@ -71,10 +73,6 @@ Script to compare two dictionaries and print result.
 
 Script to merge two dictionaries and export the result.
 
-> cmd-dico-merge.py
-
-Script to merge two dictionaries and export the result.
-
 ### Ogg file generation
 
 > cmd-oggfiles-create-voice.py
@@ -92,3 +90,26 @@ Script to update a voice pack from dictionary differences.
 ## Project history
 
 TODO
+
+
+## Update audio files for DBM
+> Copy DBM-VPEM files in DBM-VPVEM-REF
+> python .\scripts\cmd-dico-create.py -l fr -n DBM-VPVEM-REF -o .\DBM-VPVEM-REF\DBM-VPVEM-REF.json .\DBM-VPVEM-REF
+> python .\scripts\cmd-dico-compare.py .\DBM-VPVEM-REF\DBM-VPVEM-REF.json .\dbm-dictionaries\dbm-vp-fr.json
+> python .\scripts\cmd-dico-merge.py .\dbm-dictionaries\dbm-vp-fr.json .\DBM-VPVEM-REF\DBM-VPVEM-REF.json -o .\dbm-dictionaries\new-dbm-vp-fr.json
+> remove in dbm dictioannary "di.ogg": "DUMMY", "didi.ogg": "DUMMY",
+> cmd-oggfiles-update-voicepack.py
+
+> python scripts\cmd-oggfiles-update-voicepack.py -c .\my-audio-configs\aws-french-optimal-config.json .\dbm-dictionaries\dbm-vp-fr.json ..\DBM-VoicePack-FrenchFemale\DBM-VPFrenchFemale\dictionary.json -o .\test\ -e AWS
+> copy generated file from test to ..\DBM-VoicePack-FrenchFemale\DBM-VPFrenchFemale\dictionary.json
+
+
+
+## Update audio files for DBMEA
+> python .\scripts\cmd-dico-create-gamedata.py (comment line to select game data generation)
+> View generated files to G:\Dev\WOW-VoicePack-Generator\test\dbmea
+> compare dico 
+> python .\scripts\cmd-dico-compare.py .\test\dbmea\DBMEA-Party-WoD-FR.json ..\addons\DBMEA-Party-WoD-FR\dictionary.json
+> copy lua et dico dans l'addon
+> generate files
+> python .\scripts\cmd-oggfiles-create-voicepack.py -e GTTS -c .\my-audio-configs\gtts-french-optimal-config.json ..\addons\DBMEA-Party-Dragonflight-FR\DBMEA-Party-Dragonflight-FR.json -o ..\addons\DBMEA-Party-Dragonflight-FR\
