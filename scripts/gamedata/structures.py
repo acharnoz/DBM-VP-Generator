@@ -11,16 +11,18 @@ def save(data, path:Path) -> None:
 
 class EncounterSpell:
     
-    def __init__(self, spell_name, spell_id):
+    def __init__(self, spell_name, spell_id, encounter_id):
         self.name = spell_name
         self.id = spell_id
         self.journal_section_ids = []
+        self.encounter_id = encounter_id
 
     def to_string(self) -> str:
         sout = io.StringIO()
         sout.write(f"Encounter spell\n")
         sout.write(f"id: {self.id}\n")
         sout.write(f"name: {self.name}\n")
+        sout.write(f"encounter_id: {self.encounter_id}\n")
         sout.write(f"journal_section_ids: {self.journal_section_ids}\n")
         return sout.getvalue()
 
@@ -48,7 +50,7 @@ class JournalEncounter:
         if "spell" in section:
             spell_name = section["spell"]["name"]
             spell_id = section["spell"]["id"]
-            encounter_spell = EncounterSpell(spell_name, spell_id)
+            encounter_spell = EncounterSpell(spell_name, spell_id, self.id)
             encounter_spell.journal_section_ids = new_sections_ids.copy()
             encounter_spell.journal_section_ids.reverse()
             encounter_spells.append(encounter_spell)
@@ -57,6 +59,13 @@ class JournalEncounter:
             for s in section["sections"]:
                 self.check_data_section(s, encounter_spells, new_sections_ids)
 
+
+    def get_encounter_spells(self, spellid:int) -> EncounterSpell:
+        encounter_spells = self.get_encounter_spells(self)
+        for es in encounter_spells:
+            if es.id == spellid:
+                return es
+        return -1
 
     def get_encounter_spells(self) -> Sequence[EncounterSpell]:
         encounter_spells = []
@@ -88,6 +97,9 @@ class JournalEncounter:
             sout.write(s.to_string())
         return sout.getvalue()
 
+    def get_name(self):
+        return self.data["name"]
+
 
 class JournalInstance:
 
@@ -108,6 +120,18 @@ class JournalInstance:
         self.id=dic["id"]
         self.lang=dic["lang"]
 
+    def get_name(self):
+        return self.data["name"]
+
+    def get_expansion_name(self):
+        return self.data["expansion"]["name"]
+
+    def get_expansion_id(self):
+        return self.data["expansion"]["id"]
+
+    def get_instance_type(self):
+        return self.data["category"]["type"]
+
     def get_encounter_ids(self):
         ids = []
         for encounter in self.data["encounters"]:
@@ -118,6 +142,15 @@ class JournalInstance:
         path= dirpath / f"{self.lang}" / "JournalInstance" / f"{self.id}.json"
         Path.mkdir(path.parent, parents=True, exist_ok=True)
         save(self.data, path)
+
+    def to_string(self) -> str:
+        sout = io.StringIO()
+        sout.write(f"Instance\n")
+        sout.write(f"id: {self.id}\n")
+        sout.write(f"name: {self.get_name()}\n")
+        for id in self.get_encounter_ids():
+            sout.write(f"{id} ")
+        return sout.getvalue()
 
 
 class JournalExpansion:

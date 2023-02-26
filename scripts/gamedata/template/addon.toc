@@ -1,7 +1,7 @@
 ## Interface: 100005
-## Title:|cffffe00a<|r|cffff7d0aDBMEA|r|cffffe00a>|r |cff69ccf0KEY_ADDON_TITLE|r
+## Title:|cffffe00a<|r|cff66c0c0DBMEA|r|cffffe00a>|r |cffffffffKEY_ADDON_TITLE|r
 ## Version: KEY_ADDON_VERSION
-## Notes: This addon includes sounds for KEY_INSTANCE_NAME instance
+## Notes: This addon includes sounds for instance "KEY_INSTANCE_NAME"
 ## Author: Milho
 ## RequiredDeps: DBMEA
 

@@ -60,7 +60,7 @@ class AwsAudioEngine(aiaudioengine.AIAudioEngine):
 
     def convert_text_to_ogg(self, text, ogg_filepath):   
         percent = self.config.audiospeed
-        ssmltext=f"<speak><prosody rate='{percent}%'>{text}</prosody></speak>"
+        ssmltext=f"<speak><prosody volume='x-loud' rate='{percent}%'>{text}</prosody></speak>"
         
         polly_client = boto3.Session(
                     aws_access_key_id=self.config.awsaccesskeyid,                  

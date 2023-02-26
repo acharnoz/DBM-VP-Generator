@@ -43,15 +43,24 @@ def print_random_encounter(lang:str, gamedatadbpath:Path):
     # Select an encounter
     rand_key = random.choice(list(wgd.journal_encounters.keys()))
     print(wgd.journal_encounters[rand_key].to_string())
+
+
+def print_random_instance(lang:str, gamedatadbpath:Path):
     
+    wgd = load_game_data(lang, gamedatadbpath)
+
+    # Select an encounter
+    rand_key = random.choice(list(wgd.journal_instances.keys()))
+    print(wgd.journal_instances[rand_key].to_string())   
 
 
 def create_addon(id:int, lang:str, gamedatadbpath:Path, addondbpath:Path):
 
-   wgd = load_game_data(lang, gamedatadbpath)
    addonmger = addon.AddonManager()
-   addonmger.addondbpath = addondbpath
-   addonmger.create_directories()
+   wgd = load_game_data(lang, gamedatadbpath)
+   addonmger.set_param(str(id), wgd, addondbpath)
+   
+   addonmger.create_addon()
 
 
     

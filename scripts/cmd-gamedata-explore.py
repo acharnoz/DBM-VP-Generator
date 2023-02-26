@@ -2,7 +2,7 @@ from pathlib import Path
 import argparse
 
 
-from gamedata import wowgamedata
+from gamedata import cmdgamedata
 
 parser = argparse.ArgumentParser(description="Script to explore wow game data and save the file in the repository db")
 parser.add_argument("--lang", "-l", type=str, help="Set the dictionnary lang (e.g. en, fr, de, etc)", required=True)
@@ -13,6 +13,6 @@ parser.add_argument("--dbpath", "-dbp", type=Path, help="Path to export game dat
 args = parser.parse_args()
 
 if args.allid:
-    wowgamedata.explore([68,70,72,73,74,124,395,396,499,503], args.lang, args.dbpath)
+    cmdgamedata.explore([68,70,72,73,74,124,395,396,499,503], args.lang, args.dbpath)
 else:
-    wowgamedata.explore([args.id], args.lang, args.dbpath)
+    cmdgamedata.explore([args.id], args.lang, args.dbpath)
