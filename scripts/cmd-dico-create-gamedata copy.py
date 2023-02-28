@@ -285,7 +285,12 @@ def create_dictionary(path, spell_dic, lang):
     for instance_id, dic in spell_dic.items():
         for spell_id, es in dic.items():
             sound_path= f"sounds/{instance_id}/{es.journal_encounter_id}/{spell_id}.ogg"
-            text = f"{es.spell_name}, imminent !"
+            if lang == "FR":
+                text = f"{es.spell_name}, imminent !"
+            elif lang == "EN":
+                text = f"{es.spell_name}, soon !"
+            else:
+                text = f"{es.spell_name}"
             dico.add_or_update_translation(sound_path, text)
 
     dico.save(path)

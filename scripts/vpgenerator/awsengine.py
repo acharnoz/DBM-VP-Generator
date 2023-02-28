@@ -15,7 +15,8 @@ AWS_VOICES = {
     "Lea":{"lang":"fr","voiceId":"Lea","engine":"neural"},
     "Chantal":{"lang":"fr","voiceId":"Chantal","engine":"standard"},
     "Gabrielle":{"lang":"fr","voiceId":"Gabrielle","engine":"neural"},
-    "Celine":{"lang":"fr","voiceId":"Celine","engine":"standard"}
+    "Celine":{"lang":"fr","voiceId":"Celine","engine":"standard"},
+    "Joanna":{"lang":"en","voiceId":"Joanna","engine":"neural"},
     }
 
 

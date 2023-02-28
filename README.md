@@ -1,4 +1,4 @@
-# WOW-VoicePack-Generator
+d# WOW-VoicePack-Generator
 
 ## Project resume
 
@@ -113,3 +113,7 @@ TODO
 > copy lua et dico dans l'addon
 > generate files
 > python .\scripts\cmd-oggfiles-create-voicepack.py -e GTTS -c .\my-audio-configs\gtts-french-optimal-config.json ..\addons\DBMEA-Party-Dragonflight-FR\DBMEA-Party-Dragonflight-FR.json -o ..\addons\DBMEA-Party-Dragonflight-FR\
+
+> python .\scripts\cmd-gamedata-explore.py -l en -dbp ..\WoWGameDataDB  -aid
+> python .\scripts\cmd-gamedata-create-addon-DF.py -l fr --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\DBMEA-FR-Voicepacks\
+> python .\scripts\cmd-gamedata-create-addon-DF.py -l en --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\DBMEA-EN-Voicepacks\    

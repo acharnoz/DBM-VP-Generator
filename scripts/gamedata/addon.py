@@ -120,7 +120,12 @@ class AddonManager:
 
         for spellkey, es in self.spellkey_to_es.items():
             sound_path = f"sounds/{self.instance_key}/{es.encounter_id}/{es.id}.ogg"
-            text = f"{es.name}, imminent!"
+            if dico.lang == "FR":
+                text = f"{es.name}, imminent !"
+            elif dico.lang == "EN":
+                text = f"{es.name}, soon !"
+            else:
+                text = f"{es.name}"
             dico.add_or_update_translation(sound_path, text)
 
         dico.print()
@@ -160,6 +165,9 @@ class AddonManager:
 
         #config = Path("G:\\Dev\\WOW-VoicePack-Generator\\my-audio-configs\\aws-french-optimal-config.json")
         #audiofilestools.create_voicepack(dicopath, "AWS", config, addonpath)
+
+        config = Path("G:\\Dev\\WOW-VoicePack-Generator\\my-audio-configs\\aws-english-optimal-config.json")
+        audiofilestools.create_voicepack(dicopath, "AWS", config, addonpath)
 
 
 
