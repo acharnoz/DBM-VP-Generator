@@ -116,4 +116,5 @@ TODO
 
 > python .\scripts\cmd-gamedata-explore.py -l en -dbp ..\WoWGameDataDB  -aid
 > python .\scripts\cmd-gamedata-create-addon-DF.py -l fr --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\DBMEA-FR-Voicepacks\
-> python .\scripts\cmd-gamedata-create-addon-DF.py -l en --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\DBMEA-EN-Voicepacks\    
+> python .\scripts\cmd-gamedata-create-addon-DF.py -l en --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\DBMEA-EN-Voicepacks\
+> python .\scripts\cmd-gamedata-create-multiaddon-DF.py -l en --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\DBMEA-EN-Voicepacks\    

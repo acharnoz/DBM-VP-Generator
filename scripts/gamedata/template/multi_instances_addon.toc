@@ -1,0 +1,8 @@
+## Interface: 100005
+## Title:|cffffe00a<|r|cff66c0c0DBMEA|r|cffffe00a>|r |cffffffffKEY_ADDON_TITLE|r
+## Version: KEY_ADDON_VERSION
+## Notes: This addon includes sounds for: KEY_CONTENT 
+## Author: Milho
+## RequiredDeps: DBMEA
+
+KEY_ADDON_FOLDERNAME.lua

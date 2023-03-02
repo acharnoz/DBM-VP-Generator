@@ -3,9 +3,11 @@ import random
 
 from gamedata import wowgamedata
 from gamedata import addon
+from gamedata import multiaddon
 from pathlib import Path
 
-def load_game_data(lang:str, gamedatadbpath:Path) -> wowgamedata.WowGameData:
+
+def load_game_data(lang: str, gamedatadbpath: Path) -> wowgamedata.WowGameData:
 
     wgd = wowgamedata.WowGameData()
     wgd.lang = lang
@@ -20,7 +22,7 @@ def load_game_data(lang:str, gamedatadbpath:Path) -> wowgamedata.WowGameData:
     return wgd
 
 
-def explore(journal_expansion_ids, lang:str, gamedatadbpath:Path):
+def explore(journal_expansion_ids, lang: str, gamedatadbpath: Path):
 
     wgd = load_game_data(lang, gamedatadbpath)
 
@@ -29,15 +31,15 @@ def explore(journal_expansion_ids, lang:str, gamedatadbpath:Path):
     wgd.configure_api()
     wgd.explore_expansions(journal_expansion_ids)
     print(f"Game data explored.")
-    
+
     # Save result
     print(f"File saving...")
     wgd.save(gamedatadbpath)
     print(f"File saved.")
 
 
-def print_random_encounter(lang:str, gamedatadbpath:Path):
-    
+def print_random_encounter(lang: str, gamedatadbpath: Path):
+
     wgd = load_game_data(lang, gamedatadbpath)
 
     # Select an encounter
@@ -45,23 +47,28 @@ def print_random_encounter(lang:str, gamedatadbpath:Path):
     print(wgd.journal_encounters[rand_key].to_string())
 
 
-def print_random_instance(lang:str, gamedatadbpath:Path):
-    
+def print_random_instance(lang: str, gamedatadbpath: Path):
+
     wgd = load_game_data(lang, gamedatadbpath)
 
     # Select an encounter
     rand_key = random.choice(list(wgd.journal_instances.keys()))
-    print(wgd.journal_instances[rand_key].to_string())   
+    print(wgd.journal_instances[rand_key].to_string())
 
 
-def create_addon(id:int, lang:str, gamedatadbpath:Path, addondbpath:Path):
+def create_addon(id: int, lang: str, gamedatadbpath: Path, addondbpath: Path):
 
    addonmger = addon.AddonManager()
    wgd = load_game_data(lang, gamedatadbpath)
    addonmger.set_param(str(id), wgd, addondbpath)
-   
+
    addonmger.create_addon()
 
 
-    
+def create_addon_v2(ids, lang: str, gamedatadbpath: Path, addondbpath: Path):
+   addonmger = multiaddon.MultiAddonManager()
+   wgd = load_game_data(lang, gamedatadbpath)
+   addonmger.set_param("DBMEA-CurrentContent",
+                       "Current Content", ids, wgd, addondbpath)
 
+   addonmger.create_addon()

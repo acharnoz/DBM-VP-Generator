@@ -11,11 +11,12 @@ def save(data, path:Path) -> None:
 
 class EncounterSpell:
     
-    def __init__(self, spell_name, spell_id, encounter_id):
+    def __init__(self, spell_name, spell_id, encounter_id, instance_id):
         self.name = spell_name
         self.id = spell_id
         self.journal_section_ids = []
         self.encounter_id = encounter_id
+        self.instance_id = instance_id
 
     def to_string(self) -> str:
         sout = io.StringIO()
@@ -23,6 +24,7 @@ class EncounterSpell:
         sout.write(f"id: {self.id}\n")
         sout.write(f"name: {self.name}\n")
         sout.write(f"encounter_id: {self.encounter_id}\n")
+        sout.write(f"instance_id: {self.instance_id}\n")
         sout.write(f"journal_section_ids: {self.journal_section_ids}\n")
         return sout.getvalue()
 
@@ -50,7 +52,7 @@ class JournalEncounter:
         if "spell" in section:
             spell_name = section["spell"]["name"]
             spell_id = section["spell"]["id"]
-            encounter_spell = EncounterSpell(spell_name, spell_id, self.id)
+            encounter_spell = EncounterSpell(spell_name, spell_id, self.id, self.get_instance_id())
             encounter_spell.journal_section_ids = new_sections_ids.copy()
             encounter_spell.journal_section_ids.reverse()
             encounter_spells.append(encounter_spell)
@@ -59,6 +61,8 @@ class JournalEncounter:
             for s in section["sections"]:
                 self.check_data_section(s, encounter_spells, new_sections_ids)
 
+    def get_instance_id(self):
+        return self.data["instance"]["id"]
 
     def get_encounter_spells(self, spellid:int) -> EncounterSpell:
         encounter_spells = self.get_encounter_spells(self)
