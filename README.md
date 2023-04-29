@@ -104,7 +104,6 @@ TODO
 > copy generated file from test to ..\DBM-VoicePack-FrenchFemale\DBM-VPFrenchFemale\dictionary.json
 
 
-
 ## Update audio files for DBMEA
 > python .\scripts\cmd-dico-create-gamedata.py (comment line to select game data generation)
 > View generated files to G:\Dev\WOW-VoicePack-Generator\test\dbmea
@@ -114,7 +113,18 @@ TODO
 > generate files
 > python .\scripts\cmd-oggfiles-create-voicepack.py -e GTTS -c .\my-audio-configs\gtts-french-optimal-config.json ..\addons\DBMEA-Party-Dragonflight-FR\DBMEA-Party-Dragonflight-FR.json -o ..\addons\DBMEA-Party-Dragonflight-FR\
 
+## Update game data from WOW Game Data API
 > python .\scripts\cmd-gamedata-explore.py -l en -dbp ..\WoWGameDataDB  -aid
-> python .\scripts\cmd-gamedata-create-addon-DF.py -l fr --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\DBMEA-FR-Voicepacks\
-> python .\scripts\cmd-gamedata-create-addon-DF.py -l en --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\DBMEA-EN-Voicepacks\
-> python .\scripts\cmd-gamedata-create-multiaddon-DF.py -l en --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\DBMEA-EN-Voicepacks\    
+
+## Print game data
+> python .\scripts\cmd-gamedata-print.py -l en -dbp ..\WoWGameDataDB
+
+## Generate addons for each extention (without sounds)
+> python .\scripts\cmd-gamedata-create-multiaddons.py -l en --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\BAA-EN-Voicepacks\
+> python .\scripts\cmd-gamedata-create-multiaddons.py -l fr --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\BAA-FR-Voicepacks\
+> ...
+
+## Generate addons for each extention (with sounds)
+> python .\scripts\cmd-gamedata-create-multiaddons.py -l en --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\BAA-EN-Voicepacks\ -gs True
+> python .\scripts\cmd-gamedata-create-multiaddons.py -l fr --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\BAA-FR-Voicepacks\ -gs True
+> ...
