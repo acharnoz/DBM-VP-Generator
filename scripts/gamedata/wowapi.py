@@ -71,6 +71,9 @@ class WoWApi:
     def get_response(self, api, id):
         endpoint = f"/data/wow/{api}/{id}"
         response = self.get_info(endpoint)
+        if response.status_code == 500:
+            print(f"Error 500: api={api} id={id}")
+            response = self.get_response(api, id)
         return response
 
 

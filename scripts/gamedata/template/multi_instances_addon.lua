@@ -16,7 +16,7 @@ end
 
 function addon:registerSounds()
 
-    local DBMEA = LibStub("AceAddon-3.0"):GetAddon("DBMEA")
+    local BAA = LibStub("AceAddon-3.0"):GetAddon("BAA")
 
 KEY_VOICEPACK_BLOCKS
 

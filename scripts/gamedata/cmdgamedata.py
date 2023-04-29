@@ -4,6 +4,7 @@ import random
 from gamedata import wowgamedata
 from gamedata import addon
 from gamedata import multiaddon
+from gamedata import structures
 from pathlib import Path
 
 
@@ -56,6 +57,24 @@ def print_random_instance(lang: str, gamedatadbpath: Path):
     print(wgd.journal_instances[rand_key].to_string())
 
 
+def print_instance_by_extension(lang: str, gamedatadbpath: Path):
+
+    wgd = load_game_data(lang, gamedatadbpath)
+
+    for expansion_id, expension in wgd.journal_expansions.items():
+        name = expension.data["name"]
+        print(f"{expansion_id}:{name}")
+
+        print("--Dungeon")
+        for dungeon_id in expension.get_dungeons_ids():
+            ji = wgd.journal_instances[str(dungeon_id)]    
+            print(f"----{dungeon_id}:{ji.get_name()}")
+
+        print("--Raid")
+        for raid_id in expension.get_raids_ids():
+            ji = wgd.journal_instances[str(raid_id)]    
+            print(f"----{raid_id}:{ji.get_name()}")
+
 def create_addon(id: int, lang: str, gamedatadbpath: Path, addondbpath: Path):
 
    addonmger = addon.AddonManager()
@@ -65,10 +84,10 @@ def create_addon(id: int, lang: str, gamedatadbpath: Path, addondbpath: Path):
    addonmger.create_addon()
 
 
-def create_addon_v2(ids, lang: str, gamedatadbpath: Path, addondbpath: Path):
+def create_addon_from_ids(ids, lang: str, gamedatadbpath: Path, addondbpath: Path, addon_foldername:str, addon_title:str, generate_sounds: bool= False):
    addonmger = multiaddon.MultiAddonManager()
    wgd = load_game_data(lang, gamedatadbpath)
-   addonmger.set_param("DBMEA-CurrentContent",
-                       "Current Content", ids, wgd, addondbpath)
+   addonmger.set_param(addon_foldername,
+                       addon_title, ids, wgd, addondbpath)
 
-   addonmger.create_addon()
+   addonmger.create_addon(generate_sounds)

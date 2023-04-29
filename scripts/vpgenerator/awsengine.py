@@ -13,10 +13,15 @@ AWS_ENGINE = "AWS"
 AWS_VOICES = {
     "Mathieu":{"lang":"fr","voiceId":"Mathieu","engine":"standard"},
     "Lea":{"lang":"fr","voiceId":"Lea","engine":"neural"},
+    "Remi":{"lang":"fr","voiceId":"Remi","engine":"neural"},
     "Chantal":{"lang":"fr","voiceId":"Chantal","engine":"standard"},
     "Gabrielle":{"lang":"fr","voiceId":"Gabrielle","engine":"neural"},
     "Celine":{"lang":"fr","voiceId":"Celine","engine":"standard"},
     "Joanna":{"lang":"en","voiceId":"Joanna","engine":"neural"},
+    "Stephen":{"lang":"en","voiceId":"Stephen","engine":"neural"},
+    "Bianca":{"lang":"it","voiceId":"Bianca","engine":"neural"},
+    "Lupe":{"lang":"es","voiceId":"Lupe","engine":"neural"},
+    "Vicki":{"lang":"de","voiceId":"Vicki","engine":"neural"}
     }
 
 

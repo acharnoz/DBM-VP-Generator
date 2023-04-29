@@ -1,8 +1,8 @@
-## Interface: 100005
-## Title:|cffffe00a<|r|cff66c0c0DBMEA|r|cffffe00a>|r |cffffffffKEY_ADDON_TITLE|r
+## Interface: INTERFACE_VERSION_KEY
+## Title:|cffffe00a<|r|cff66c0c0BAA|r|cffffe00a>|r |cffffffffKEY_ADDON_TITLE|r
 ## Version: KEY_ADDON_VERSION
 ## Notes: This addon includes sounds for: KEY_CONTENT 
 ## Author: Milho
-## RequiredDeps: DBMEA
+## RequiredDeps: BAA
 
 KEY_ADDON_FOLDERNAME.lua

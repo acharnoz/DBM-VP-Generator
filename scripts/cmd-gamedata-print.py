@@ -18,4 +18,4 @@ args = parser.parse_args()
 #     cmdgamedata.explore([args.id], args.lang, args.dbpath)
 
 #cmdgamedata.print_random_encounter(args.lang, args.dbpath)
-cmdgamedata.print_random_instance(args.lang, args.dbpath)
+cmdgamedata.print_instance_by_extension(args.lang, args.dbpath)

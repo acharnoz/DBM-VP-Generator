@@ -175,7 +175,7 @@ class MultiAddonManager:
         dico.print()
         dico.save(path)
 
-    def create_addon(self):
+    def create_addon(self, generate_sounds: bool=True):
 
         self.spellkey_to_es = {}
 
@@ -203,15 +203,10 @@ class MultiAddonManager:
         dicopath = dictionarypath / f"dictionary-{self.version}.json"
         self.create_dictionary(dicopath)
         
-        # config = Path("G:\\Dev\\WOW-VoicePack-Generator\\my-audio-configs\\gtts-french-optimal-config.json")
-        # audiofilestools.create_voicepack(dicopath, "GTTS", config, addonpath)
-
-        #config = Path("G:\\Dev\\WOW-VoicePack-Generator\\my-audio-configs\\aws-french-optimal-config.json")
-        #audiofilestools.create_voicepack(dicopath, "AWS", config, addonpath)
-
-        #config = Path("G:\\Dev\\WOW-VoicePack-Generator\\my-audio-configs\\aws-english-optimal-config.json")
-        #audiofilestools.create_voicepack(dicopath, "AWS", config, addonpath)
-
+        if generate_sounds :
+            smalllang = self.addon_lang.lower()
+            config = Path(f"G:\\Dev\\WOW-VoicePack-Generator\\my-audio-configs\\aws-{smalllang}-female-cfg.json")
+            audiofilestools.create_voicepack(dicopath, "AWS", config, addonpath)
 
 
     def replace_keys(self, filepath: Path):
