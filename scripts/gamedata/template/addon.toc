@@ -4,5 +4,6 @@
 ## Notes: This addon includes sounds for instance "KEY_INSTANCE_NAME"
 ## Author: Milho
 ## RequiredDeps: BAA
+## IconTexture: Interface\AddOns\BAA\textures\icon-BAA
 
 KEY_ADDON_NAME.lua

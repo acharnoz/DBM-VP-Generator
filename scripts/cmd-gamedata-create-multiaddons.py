@@ -5,7 +5,7 @@ import argparse
 from gamedata import cmdgamedata
 
 parser = argparse.ArgumentParser(description="Script to explore wow game data and save the file in the repository db")
-parser.add_argument("--lang", "-l", type=str, help="Set the dictionnary lang (e.g. en, fr, de, etc)", required=True)
+parser.add_argument("--lang", "-l", type=str, help="Set the dictionnary lang (e.g. en, fr, de, etc)", required=False)
 parser.add_argument("--gamedatadbpath", "-gdbp", type=Path, help="Path to import gamedata db (dir)", required=True)
 parser.add_argument("--addondbpath", "-adbp", type=Path, help="Path to export addon(s) (dir)", required=True)
 parser.add_argument("--generatesounds", "-gs", type=bool, help="Path to export addon(s) (dir)", required=False, default=False)
@@ -19,8 +19,12 @@ generate_bfa_content = True
 generate_legion_content = True
 generate_wod_content = True
 
-#langs = [args.lang]
-langs = ["EN","FR","DE","IT","ES"]
+langs = []
+if args.lang is not None:
+    langs = [args.lang]
+else:
+    langs = ["EN","FR","DE","IT","ES"]
+
 
 for lang in langs:
 
@@ -38,15 +42,26 @@ for lang in langs:
     # --Raid
     # ----1205:Dragon Isles
     # ----1200:Vault of the Incarnates
+    # ----1208:Aberrus, the Shadowed Crucible
+
+    # season 2
+    # Freehold (Battle for Azeroth)
+    # The Underrot (Battle for Azeroth)
+    # Neltharion’s Lair (Legion)
+    # Vortex Pinnacle (Cataclysm)
     if generate_current_content :
-        current_content_dungeon = ["1201","1196","1204","1199","1202","1203","1198","1197","1205"]
-        current_content_raid = ["1200"]
-        current_content_s1 = ["721", "800", "537", "313"]
         isntance_keys=[]
+
+        current_content_dungeon = ["1201","1196","1204","1199","1202","1203","1198","1197","1205"]
         isntance_keys.extend(current_content_dungeon)
+
+        current_content_raid = ["1208"]
         isntance_keys.extend(current_content_raid)
-        isntance_keys.extend(current_content_s1)
-        cmdgamedata.create_addon_from_ids(isntance_keys, lang, args.gamedatadbpath, args.addondbpath,"BAA-CurrentContent","Current Content")
+
+        current_content_s2 = ["1001", "1022", "767", "68"]
+        isntance_keys.extend(current_content_s2)
+
+        cmdgamedata.create_addon_from_ids(isntance_keys, lang, args.gamedatadbpath, args.addondbpath,"BAA-CurrentContent","Current Content", args.generatesounds)
 
     # BAA-VaultOfTheIncarnates
     # 503:Dragonflight

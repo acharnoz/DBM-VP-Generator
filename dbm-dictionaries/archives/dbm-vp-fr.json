@@ -5,9 +5,9 @@
         "Milho, Dalaran EU Realm",
         "Daydream, Dalaran EU Realm"
     ],
-    "version": "0.8",
-    "version_date": "2023-01-29",
-    "VPVEM_reference": "81c3e41",
+    "version": "0.9",
+    "version_date": "2023-03-22",
+    "VPVEM_reference": "4b57685",
     "dummy_text": "Cette voix n'a pas encore été générée.",
     "description": "",
     "filename_to_translation": {
@@ -82,8 +82,6 @@
         "crusher.ogg": "broyeur",
         "defensive.ogg": "Défensive",
         "demolisher.ogg": "démolisseur",
-        "di.ogg": "DUMMY",
-        "didi.ogg": "DUMMY",
         "dispelboss.ogg": "Dissipez le boss",
         "dispelnow.ogg": "dissipez",
         "dontmove.ogg": "ne bougez pas",
@@ -343,11 +341,15 @@
         "Thogar/E3.ogg": "Déforesteur, voie trois",
         "Thogar/E4.ogg": "Déforesteur, voie quatre",
         "Thogar/F.ogg": "trois voie aléatoires",
-        "chainboss.ogg": "DUMMY",
-        "movetopillar.ogg": "DUMMY",
-        "negative.ogg": "DUMMY",
-        "polarityshift.ogg": "DUMMY",
-        "positive.ogg": "DUMMY",
-        "pushbackincoming.ogg": "DUMMY"
+        "chainboss.ogg": "Enchaînez les boss",
+        "movetopillar.ogg": "Allez au pilier",
+        "negative.ogg": "Négatif",
+        "polarityshift.ogg": "Changement de polarité",
+        "positive.ogg": "Positif",
+        "pushbackincoming.ogg": "Repoussement imminent",
+        "changecolor.ogg": "Changez de couleur",
+        "getupwind.ogg": "Prennez le vent",
+        "movetoboss.ogg": "Allez sur le boss",
+        "movetomobs.ogg": "Allez sur les monstres"
     }
 }

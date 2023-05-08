@@ -213,7 +213,7 @@ class MultiAddonManager:
 
         # Opening our text file in read only
         # mode using the open() function
-        with open(filepath, 'r') as file:
+        with open(filepath, 'r', encoding='utf8') as file:
 
             # Reading the content of the file
             # using the read() function and storing
@@ -227,7 +227,7 @@ class MultiAddonManager:
 
         # Opening our text file in write only
         # mode to write the replaced content
-        with open(filepath, 'w') as file:
+        with open(filepath, 'w', encoding='utf8') as file:
 
             # Writing the replaced data in our
             # text file

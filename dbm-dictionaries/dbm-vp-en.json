@@ -5,8 +5,8 @@
         "Milho, Dalaran EU Realm",
         "Daydream, Dalaran EU Realm"
     ],
-    "version": "0.1",
-    "version_date": "2023-03-22",
+    "version": "0.2",
+    "version_date": "2023-05-02",
     "VPVEM_reference": "4b57685",
     "dummy_text": "This voice has not yet been generated.",
     "description": "",
@@ -350,6 +350,9 @@
         "pushbackincoming.ogg": "Push back incoming",
         "getupwind.ogg": "Get up wind",
         "movetoboss.ogg": "Move to boss",
-        "movetomobs.ogg": "Move to mobs"
+        "movetomobs.ogg": "Move to mobs",
+        "breakvine.ogg": "Break vine",
+        "helpspirit.ogg": "Help spirit",
+        "incomingdebuff.ogg": "Incoming debuff"
     }
 }

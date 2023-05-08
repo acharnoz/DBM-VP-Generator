@@ -94,12 +94,39 @@ TODO
 
 ## Update audio files for DBM
 > Copy DBM-VPEM files in DBM-VPVEM-REF
+
+# FR
 > python .\scripts\cmd-dico-create.py -l fr -n DBM-VPVEM-REF -o .\DBM-VPVEM-REF\DBM-VPVEM-REF.json .\DBM-VPVEM-REF
 > python .\scripts\cmd-dico-compare.py .\DBM-VPVEM-REF\DBM-VPVEM-REF.json .\dbm-dictionaries\dbm-vp-fr.json
 > python .\scripts\cmd-dico-merge.py .\dbm-dictionaries\dbm-vp-fr.json .\DBM-VPVEM-REF\DBM-VPVEM-REF.json -o .\dbm-dictionaries\new-dbm-vp-fr.json
+> Traduire les fichiers manquants 
 > remove in dbm dictioannary "di.ogg": "DUMMY", "didi.ogg": "DUMMY",
-> cmd-oggfiles-update-voicepack.py
+> renomer new-dbm-vp-fr.json en \dbm-vp-fr.json
+> changer la version
+> Female Voice:
+> python scripts\cmd-oggfiles-update-voicepack.py -c .\my-audio-configs\aws-fr-female-cfg.json .\dbm-dictionaries\dbm-vp-fr.json ..\DBM-VoicePack\DBM-VPFrenchFemale\dictionary.json -o .\test\ -e AWS
+> cp .\test\* ..\DBM-VoicePack\DBM-VPFrenchFemale\
+> Male Voice:
+> python scripts\cmd-oggfiles-update-voicepack.py -c .\my-audio-configs\aws-fr-male-cfg.json .\dbm-dictionaries\dbm-vp-fr.json ..\DBM-VoicePack\DBM-VPFrenchMale\dictionary.json -o .\test\ -e AWS
+> cp .\test\* ..\DBM-VoicePack\DBM-VPFrenchMale\
 
+# EN
+> python .\scripts\cmd-dico-create.py -l en -n DBM-VPVEM-REF -o .\DBM-VPVEM-REF\DBM-VPVEM-REF.json .\DBM-VPVEM-REF
+> python .\scripts\cmd-dico-compare.py .\DBM-VPVEM-REF\DBM-VPVEM-REF.json .\dbm-dictionaries\dbm-vp-en.json
+> python .\scripts\cmd-dico-merge.py .\dbm-dictionaries\dbm-vp-en.json .\DBM-VPVEM-REF\DBM-VPVEM-REF.json -o .\dbm-dictionaries\new-dbm-vp-en.json
+> Traduire les fichiers manquants 
+> remove in dbm dictioannary "di.ogg": "DUMMY", "didi.ogg": "DUMMY",
+> renomer new-dbm-vp-en.json en \dbm-vp-en.json
+> changer la version
+> Female Voice:
+> python scripts\cmd-oggfiles-update-voicepack.py -c .\my-audio-configs\aws-en-female-cfg.json .\dbm-dictionaries\dbm-vp-en.json ..\DBM-VoicePack\DBM-VPEnglishFemale\dictionary.json -o .\test\ -e AWS
+> cp .\test\* ..\DBM-VoicePack\DBM-VPEnglishFemale\
+> Male Voice:
+> python scripts\cmd-oggfiles-update-voicepack.py -c .\my-audio-configs\aws-en-male-cfg.json .\dbm-dictionaries\dbm-vp-en.json ..\DBM-VoicePack\DBM-VPEnglishMale\dictionary.json -o .\test\ -e AWS
+> cp .\test\* ..\DBM-VoicePack\DBM-VPEnglishMale\
+
+
+# EN
 > python scripts\cmd-oggfiles-update-voicepack.py -c .\my-audio-configs\aws-french-optimal-config.json .\dbm-dictionaries\dbm-vp-fr.json ..\DBM-VoicePack-FrenchFemale\DBM-VPFrenchFemale\dictionary.json -o .\test\ -e AWS
 > copy generated file from test to ..\DBM-VoicePack-FrenchFemale\DBM-VPFrenchFemale\dictionary.json
 
@@ -121,10 +148,10 @@ TODO
 
 ## Generate addons for each extention (without sounds)
 > python .\scripts\cmd-gamedata-create-multiaddons.py -l en --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\BAA-EN-Voicepacks\
-> python .\scripts\cmd-gamedata-create-multiaddons.py -l fr --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\BAA-FR-Voicepacks\
-> ...
+or
+> python .\scripts\cmd-gamedata-create-multiaddons.py --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\BAA-Voicepacks\
 
 ## Generate addons for each extention (with sounds)
 > python .\scripts\cmd-gamedata-create-multiaddons.py -l en --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\BAA-EN-Voicepacks\ -gs True
-> python .\scripts\cmd-gamedata-create-multiaddons.py -l fr --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\BAA-FR-Voicepacks\ -gs True
-> ...
+or
+> python .\scripts\cmd-gamedata-create-multiaddons.py --gamedatadbpath ..\WoWGameDataDB --addondbpath ..\DBMEventAnnouncement\BAA-Voicepacks\ -gs True

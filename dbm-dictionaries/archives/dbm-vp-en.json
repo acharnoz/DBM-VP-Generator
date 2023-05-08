@@ -2,11 +2,12 @@
     "name": "English DBM Voice Pack",
     "lang": "en",
     "authors": [
-        "MysticalOS"
+        "Milho, Dalaran EU Realm",
+        "Daydream, Dalaran EU Realm"
     ],
-    "version": "X.X",
-    "version_date": "2022-04-16",
-    "VPVEM_reference": "81c3e41",
+    "version": "0.1",
+    "version_date": "2023-03-22",
+    "VPVEM_reference": "4b57685",
     "dummy_text": "This voice has not yet been generated.",
     "description": "",
     "filename_to_translation": {
@@ -81,8 +82,6 @@
         "crusher.ogg": "crusher",
         "defensive.ogg": "Defensive",
         "demolisher.ogg": "demolisher",
-        "di.ogg": "di",
-        "didi.ogg": "didi",
         "dispelboss.ogg": "dispel boss",
         "dispelnow.ogg": "dispel",
         "dontmove.ogg": "dont move",
@@ -341,6 +340,16 @@
         "Thogar/E23.ogg": "lane 2 and 3 Deforester",
         "Thogar/E3.ogg": "lane 3 Deforester",
         "Thogar/E4.ogg": "lane 4 Deforester",
-        "Thogar/F.ogg": "3 Random Lanes"
+        "Thogar/F.ogg": "3 Random Lanes",
+        "chainboss.ogg": "Chain boss",
+        "changecolor.ogg": "Change color",
+        "movetopillar.ogg": "Move to pillar",
+        "negative.ogg": "Negative",
+        "polarityshift.ogg": "Polarity shift",
+        "positive.ogg": "Postive",
+        "pushbackincoming.ogg": "Push back incoming",
+        "getupwind.ogg": "Get up wind",
+        "movetoboss.ogg": "Move to boss",
+        "movetomobs.ogg": "Move to mobs"
     }
 }

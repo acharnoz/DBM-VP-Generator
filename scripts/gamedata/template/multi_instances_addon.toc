@@ -4,5 +4,6 @@
 ## Notes: This addon includes sounds for: KEY_CONTENT 
 ## Author: Milho
 ## RequiredDeps: BAA
+## IconTexture: Interface\AddOns\BAA\textures\icon-BAA
 
 KEY_ADDON_FOLDERNAME.lua
